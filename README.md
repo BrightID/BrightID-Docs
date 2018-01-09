@@ -1,2 +1,2 @@
 # Brightside-Social.github.io
-Web site for Brightside (github pages)
+Web site for BrightID (github pages)

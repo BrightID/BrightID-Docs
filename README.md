@@ -1,6 +1,6 @@
 # BrightID.github.io
-Web site for BrightID (github pages)
+Web site for BrightID
 
 http://brightid.org
 
-This isn't hosted on github, yet.
+Currently hosted on wordpress.

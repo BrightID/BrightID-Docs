@@ -1,5 +1,4 @@
-# BrightID.github.io
-Web site for BrightID
+## Documentation Links
 
-https://www.brightid.org
-
+* [Website FAQ](https://www.brightid.org/faq)
+* [Articles on Medium](https://medium.com/brightid)

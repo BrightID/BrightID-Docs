@@ -36,7 +36,7 @@ Get rewarded with $BRIGHT for supporting initiatives in the community. When you 
 
 Even if you haven't had the chance to set up your social recovery, you can still do it now and get rewarded with $BRIGHT in the future.
 
-{% content-ref url="../../recovery-move/setting-up-social-recovery.md" %}
-[setting-up-social-recovery.md](../../recovery-move/setting-up-social-recovery.md)
+{% content-ref url="../../recovering-moving/setting-up-social-recovery.md" %}
+[setting-up-social-recovery.md](../../recovering-moving/setting-up-social-recovery.md)
 {% endcontent-ref %}
 

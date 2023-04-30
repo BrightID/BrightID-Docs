@@ -30,7 +30,7 @@ Social recovery is a process where you can recover your BrightID with consent fr
 * As you will see below, only two recovery connections are needed to be present for the actual recovery process.
 {% endhint %}
 
-****
+
 
 ## 🔐 Setting up social recovery
 
@@ -139,7 +139,7 @@ As mentioned before, BrightID on the stolen or old mobile phone automatically be
 
 **Step 1.** Go to Menu on your BrightID app's home screen.&#x20;
 
-**Step 2.** Select '[^1]Recovery Connection.'
+**Step 2.** Select 'Recovery Connection.'
 
 **Step 3.** Select 'Add more recovery connections.'
 
@@ -159,6 +159,3 @@ As mentioned before, BrightID on the stolen or old mobile phone automatically be
 
 **Step 5.** Click the 'Save' button to confirm the change you made.
 
-
-
-[^1]: ocd?

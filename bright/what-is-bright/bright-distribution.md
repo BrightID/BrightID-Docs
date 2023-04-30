@@ -46,7 +46,7 @@ Subs are a crucial part of the BrightID ecosystem. Subs holders are app creators
 {% endtab %}
 
 {% tab title="Bounties" %}
-### ****:woman\_scientist:**Bounties and Hackathons (150,000)**
+### :woman\_scientist:**Bounties and Hackathons (150,000)**
 
 We're setting aside $BRIGHT for developers who contribute to BrightID's open source platform or build on BrightID. This pool can also be used to fund research and security bounties.
 {% endtab %}
@@ -54,7 +54,7 @@ We're setting aside $BRIGHT for developers who contribute to BrightID's open sou
 {% tab title="Stars" %}
 ### :star2:**BrightID Stars (200,000)**
 
-Stars are some of the brightest members of the community. They're **** responsible for helping on-board new users and supporting the community through our communication channels. We want to reward these members with ongoing $BRIGHT token payments.
+Stars are some of the brightest members of the community. They're responsible for helping on-board new users and supporting the community through our communication channels. We want to reward these members with ongoing $BRIGHT token payments.
 {% endtab %}
 
 {% tab title="Faucet" %}

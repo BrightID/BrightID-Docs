@@ -20,7 +20,7 @@ However, new use cases are being discovered by the community every day.
 
 ### **How is BrightID different from other identity solutions?**
 
-BrightID is a solution for knowing whether someone exists in a system only once. **** It is specifically designed to work well in a digital environment.
+BrightID is a solution for knowing whether someone exists in a system only once. It is specifically designed to work well in a digital environment.
 
 BrightID can solve a problem that is difficult for other identity solutions: the problem of unique identity. It does so in a way that doesn’t require personal data to be collected or attested by others.
 

@@ -11,9 +11,9 @@
   * [Gitcoin](linking-brightid-to-applications/gitcoin.md)
   * [Burn Signal](linking-brightid-to-applications/burn-signal.md)
   * [Clr.Fund](linking-brightid-to-applications/clr.fund.md)
-* [🔐 Account Recovery](account-recovery/README.md)
-  * [👯 Social Recovery](account-recovery/setting-up-social-recovery.md)
-  * [📲 Device Recovery](account-recovery/device-recovery.md)
+* [🔐 Recovery/Move](recovery-move/README.md)
+  * [👯 Social Recovery](recovery-move/setting-up-social-recovery.md)
+  * [📲 Device Recovery](recovery-move/device-recovery.md)
 * [🤼 Creating Groups](creating-groups.md)
 * [❓ FAQ](frequently-asked-questions.md)
 

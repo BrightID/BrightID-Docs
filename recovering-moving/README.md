@@ -4,9 +4,9 @@ description: >-
   new phone.
 ---
 
-# 🔐 Recovery/Move
+# 🔐 Recovering/Moving
 
-1.  Social Recovery is a great way to recover/move if you have three or more close family or friends who would not mind being your recovery connection. It can be quite effective:
+1.  Social Recovery is a great way to recover/move if you have three or more close family, friends, colleague, or community kinship who would not mind being your recovery connection. It can be quite effective:
 
     * It is not necessary for your recovery connections to have any verification.
     * It does not cost an extra phone (unlike device recovery).

@@ -79,17 +79,21 @@ Set up a password to encrypt and back up profile data consisting of your name an
 
 ## Recovering your BrightID Using Social Recovery
 
+{% hint style="danger" %}
+Make sure your recovery connections have the same version of BrightID as your newly installed one; It will be the latest. Have them upgrade to the latest version before proceeding further.\
+\
+If, for some reason, after updating their BrightID, your recovery connections get an error saying their signing keys are invalid/incorrect, then you cannot recover. It is very important for you and your recovery connections to keep your BrightID mobile app healthy and keep it up-to-date.\
+\
+Watching out for new update announcements and keeping your and your connection's BrightID updated is a good practice to ensure your recovery goes smoothly. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements.\
+\
+Use the [Update/Upgrade](../update-upgrade.md) guide.
+{% endhint %}
+
 **Step 1.** Install the BrightId app on your mobile phone. Select the “Recover” button on the screen you see when you first open the BrightID app.
 
 <figure><img src="../.gitbook/assets/Recovery w SR_S1.png" alt=""><figcaption></figcaption></figure>
 
 **Step 2.** The app will show a QR code. Show the QR code to two of your recovery connections or Select 'Copy' to share it with them as a link.&#x20;
-
-{% hint style="danger" %}
-Make sure your recovery connections have the same version of BrightID as your newly installed one; It will be the latest. Have them upgrade to the latest version before proceeding further.\
-\
-Watching out for new update announcements and keeping your and your connection's BrightID updated is a good practice to ensure your recovery goes smoothly. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements.
-{% endhint %}
 
 <figure><img src="../.gitbook/assets/Recovery w SR_S2 (2).png" alt=""><figcaption></figcaption></figure>
 

@@ -11,10 +11,10 @@
   * [Gitcoin](linking-brightid-to-applications/gitcoin.md)
   * [Burn Signal](linking-brightid-to-applications/burn-signal.md)
   * [Clr.Fund](linking-brightid-to-applications/clr.fund.md)
+* [🔁 Update/Upgrade](update-upgrade.md)
 * [🔐 Recovering/Moving](recovering-moving/README.md)
   * [👯 Social Recovery](recovering-moving/setting-up-social-recovery.md)
   * [📲 Device Recovery](recovering-moving/device-recovery.md)
-* [🔁 Update/Upgrade](update-upgrade.md)
 * [🤼 Creating Groups](creating-groups.md)
 * [❓ FAQ](frequently-asked-questions.md)
 

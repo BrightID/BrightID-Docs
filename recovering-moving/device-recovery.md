@@ -6,6 +6,16 @@ description: Move your BrightID to a new phone, or use an extra phone as a backu
 
 You can move your BrightID from one phone to another as long as you **still have access to the old phone that has your fully functioning BrightID**. This feature also allows the multi-device backup of your BrightID so that if you lose one, you still have your BrightID in another phone.
 
+{% hint style="warning" %}
+Make sure the phone with the fully functioning BrightID(old phone) has the same version of BrightID as your newly installed one in your new phone. Upgrade your old phone to the latest version before proceeding further.\
+\
+If, for some reason, after updating, BrightID app in your old phone has an error saying signing keys are invalid/incorrect, then you cannot recover. It is very important for you to keep your BrightID mobile app in all your phones healthy and kept up-to-date.\
+\
+Watching out for new update announcements and keeping your and your connection's BrightID updated is a good practice to ensure your recovery goes smoothly. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements.\
+\
+Use the [Update/Upgrade](../update-upgrade.md) guide for details on how to update.
+{% endhint %}
+
 ### Moving your BrightID to new phone
 
 **Step 1.** Install the BrightID app on your new phone. After successfully installing, open the BrightID app and select the 'Import' option.

@@ -14,6 +14,7 @@
 * [🔐 Recovering/Moving](recovering-moving/README.md)
   * [👯 Social Recovery](recovering-moving/setting-up-social-recovery.md)
   * [📲 Device Recovery](recovering-moving/device-recovery.md)
+* [🔁 Update/Upgrade](update-upgrade.md)
 * [🤼 Creating Groups](creating-groups.md)
 * [❓ FAQ](frequently-asked-questions.md)
 

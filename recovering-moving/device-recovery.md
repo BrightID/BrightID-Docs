@@ -13,7 +13,7 @@ If, for some reason, after updating, BrightID app in your old phone has an error
 \
 Watching out for new update announcements and keeping your and your connection's BrightID updated is a good practice to ensure your recovery goes smoothly. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements.\
 \
-Use the [Update/Upgrade](../update-upgrade.md) guide for details on how to update.
+Use the [Update/Upgrade](../update-upgrade.md) guide for important details on how to be up-to-date.
 {% endhint %}
 
 ### Moving your BrightID to new phone

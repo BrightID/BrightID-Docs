@@ -21,6 +21,6 @@ description: How to update BrightID mobile app to the latest version?
 
 NOTES:
 
-* Keep an eye on our Twitter or Discord for announcements about new updates.
+* Keep an eye on our Twitter ([@BrightIDProject](https://twitter.com/BrightIDProject)) or Discord for announcements about new updates.
 * If you have setup Social Recovery, make sure to ask your recovery connections to keep their BrightID app up-to-date. This helps prevent Social Recovery problems.
 * If you have setup Device Recovery, make sure to keep your secondary devices up-to-date. This helps prevent Device Recovery problems.

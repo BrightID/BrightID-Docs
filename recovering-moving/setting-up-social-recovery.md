@@ -31,14 +31,14 @@ Social recovery is a process where you can recover your BrightID with consent fr
 
 ## 🔐 Setting up social recovery
 
-Before you start, connect to at least three people you know personally and trust. If they still need to get BrightID, have them install it.&#x20;
+Before you start, connect to at least three people you know personally and trust. Have them install it if needed. Installing is really easy. As mentioned in the note above, they do not necessarily have to receive any verifications if they do not plan to participate in web3 in the near future.
 
-For recovery, two types of information must be secured, the first being the most essential.
+For recovery, two types of information is secured, the first being the most essential, and second optional.
 
 1. **BrightID private key**\
-   It is secured through a secret sharing mechanism with recovery connections.
+   It is secured through a secret sharing mechanism with recovery connections. This is the main and the most important information that is recovered by social recovery.
 2. **Profile data** - Your and your connection's names and photos\
-   It is secured by password and stored peer-to-peer with your contacts locally in connection's mobile phones. Your recovered BrightID can be functional even if the profile data could not be retrieved during recovery as long as the private key was recovered successfully.
+   It is secured by password and stored peer-to-peer with your contacts locally in your connection's mobile phones. Your recovered BrightID can be functional even if the profile data could not be retrieved during recovery as long as the private key was recovered successfully.
 
 ### 1) Securing BrightID private key
 
@@ -63,7 +63,7 @@ Again, recovery connections are meant to help you recover your BrightID. Be care
 The app will show you the list of eligible people for your recovery connection.&#x20;
 
 {% hint style="info" %}
-The eligibility criteria for someone to be your recovery connection is that the person should have marked you as '😎 **Already Known,**' and you have marked them as '😎 **Already Known**' as well.&#x20;
+The eligibility criteria for someone to be your recovery connection is that the person should have marked you as '😎 **Already Known,**' and you have marked them as '😎 **Already Known**' as well. Please be sincere about it. Dishonesty could lead you to lose your BrightID and losing the baseline access to web3.
 {% endhint %}
 
 **Step 4.** Click the 'Add' button to confirm your selection.

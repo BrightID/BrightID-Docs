@@ -10,7 +10,7 @@ Social recovery is a process where you can recover your BrightID with consent fr
 
 * To regain your BrightID if:
   * You lose your mobile phone. It got broken, lost, or someone stole it.
-  * The app accidentally becomes corrupted and unusable, gets uninstalled.
+  * The app accidentally becomes corrupted and unusable, or unintentionally gets uninstalled.
 * To migrate your BrightID to a new phone even if it is functioning perfectly in your old one.
 
 ## **Who should be your recovery connections?**

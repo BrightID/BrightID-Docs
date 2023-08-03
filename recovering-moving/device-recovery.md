@@ -18,7 +18,7 @@ Use the [Update/Upgrade](../update-upgrade.md) guide for important details on ho
 
 ### Moving your BrightID to new phone
 
-**Step 1.** Install the BrightID app on your new phone. After successfully installing, open the BrightID app and select the 'Import' option.
+**Step 1.** Install the BrightID app on your new phone. After successfully installing, open the BrightID app and select the "Device Recovery" option - previously the button was labeled as "Import".
 
 ![](../.gitbook/assets/AddingDevice\_Step1.png)
 
@@ -57,3 +57,9 @@ Assuming you selected "set as primary device" above the QR code on your new phon
 ### Manage the list of Devices
 
 To access the information on the list of devices holding your BrightID, you can go to the side menu on your home screen in either phones and select 'Devices.' You can manually re-sync the data from your primary device to your secondary devices on this page. You can also remove the devices you no longer want to have your BrightID in.
+
+{% hint style="danger" %}
+"Sync Devices" from your primary phone from time to time, especially if you change something, like your profile pic, name, connection level of a connection, or you added new connections.\
+\
+While you can still have a functioning BrightID on the phone that is not synced, because the most important part, which is your signing keys are already backed up, and you can always redo the changes manually on your secondary/backup phone, it is best not to have to repeat the changes.
+{% endhint %}

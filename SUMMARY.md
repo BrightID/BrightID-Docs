@@ -1,7 +1,8 @@
 # Table of contents
 
 * [🔆 BrightID](README.md)
-* [✨ Install & Get Started](getting-started.md)
+* [✨ Install & Get Started](getting-started/README.md)
+  * [🔁 Update/Upgrade](getting-started/update-upgrade.md)
 * [🤝 Making Connections](making-connections.md)
   * [✅ Connection Levels](connection-levels.md)
 * [🟠 BrightID Verifications](getting-verified/README.md)
@@ -11,7 +12,6 @@
   * [Gitcoin](linking-brightid-to-applications/gitcoin.md)
   * [Burn Signal](linking-brightid-to-applications/burn-signal.md)
   * [Clr.Fund](linking-brightid-to-applications/clr.fund.md)
-* [🔁 Update/Upgrade](update-upgrade.md)
 * [🔐 Recovering/Moving](recovering-moving/README.md)
   * [👯 Social Recovery](recovering-moving/setting-up-social-recovery.md)
   * [📲 Device Recovery](recovering-moving/device-recovery.md)

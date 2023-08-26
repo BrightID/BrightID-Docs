@@ -83,7 +83,7 @@ If, for some reason, after updating their BrightID, your recovery connections ge
 \
 Watching out for new update announcements and keeping your and your connection's BrightID updated is a good practice to ensure your recovery goes smoothly. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements.\
 \
-Use the [Update/Upgrade](../update-upgrade.md) guide for important details on how to be up-to-date.
+Use the [Update/Upgrade](../getting-started/update-upgrade.md) guide for important details on how to be up-to-date.
 {% endhint %}
 
 **Step 1.** Install the BrightId app on your mobile phone. Select the “Recover” button on the screen you see when you first open the BrightID app.

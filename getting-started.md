@@ -16,4 +16,4 @@ You can see your connections, groups and apps. The buttons for making connection
 \
 The menu has features like editing your profile, seeing your achievements, checking for updates, and more.
 
-Use the link at the bottom of the screen to join the public space managed by the community in our Discord. Ask questions and get support, be informed about what is happening around the public good, or learn and be attuned to the concerns of the public good and become a valued member of the community by contributing in whatever ways you can.
+Use the link at the bottom of the screen to join the public space managed by the community in our Discord. Ask questions and get support, be informed about what is happening around the public good, or learn and be attuned to the concerns of the public good. Everybody is also welcome to become a valued member of the community by contributing in whatever ways you can, as the public good is entirely built, maintained, and supported by the public. The [bright-dao](bright/bright-dao/ "mention")is also there for you to participate in the governance of the concerns of the public good and its ecosystem of projects.

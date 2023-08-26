@@ -2,7 +2,7 @@
 
 Bitu verification verifies users based on their location in the [BrightID graph](https://explorer.brightid.org/). Users should do certain things to move closer to the main regions of the graph and avoid doing what pushes them away from these regions.
 
-There are [three levels of connection](../connection-levels.md) in BrightID that show how well a person knows the others they make connections with: already known, just met, and suspicious. Choosing the right connection level when making a connection is very important in Bitu.
+There are [three levels of connection](../making-connections/connection-levels.md) in BrightID that show how well a person knows the others they make connections with: already known, just met, and suspicious. Choosing the right connection level when making a connection is very important in Bitu.
 
 To be verified, you need to be located in the main regions of the graph. As the graph is drawn only based on "Already known" connections, so you need to make “Already known” connections with your friends and family who are already placed in the main regions. Note that you must never make an “Already known” connection with someone you do not know because the person may be an attacker, and their expulsion from the main regions of the graph will cause you to be pushed away from the main regions.
 

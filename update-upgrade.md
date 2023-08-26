@@ -14,7 +14,11 @@ description: How to update BrightID mobile app to the latest version?
 
 
 
+    <div align="center">
+
     <figure><img src=".gitbook/assets/IMG_B62DF5773B6D-1 (1).jpeg" alt="" width="375"><figcaption><p>The BrightID version we are concerned with</p></figcaption></figure>
+
+    </div>
 2. Note that there can be two kinds of updates released by the community from time to time
    1. Occasionally there are _store_ releases. If there is one, go to the store(PlayStore/AppStore), find the app in the store, look for "update" button and click on it to update.
    2. More often, updates are made incrementally "over the air"(OTA). OTAs are automatic in-app updates. To get them all you have to do is launch the BrightID mobile app from time to time and it will download automatically without visiting the store. If you hear about a new update on our social media, launched the app expecting to get updated, but did not get the version announced immediately, go to the Menu -> Check for Updates.

@@ -2,9 +2,9 @@
 
 [BrightID explorer](https://explorer.brightid.org/) enables users to explore the BrightID graph. Nodes represent people in the BrightID graph and connections they make with each other represent links.
 
-The default view of the graph is drawn using links that represent mutual connections with “Already known” or “Recovery” [levels](../connection-levels.md). Connections that are one-sided or have “Just met” or “Suspicious” [levels](../connection-levels.md) are ignored in the default view because they don’t represent real social relationships and aren’t useful for Sybil detection methods based on these relationships.
+The default view of the graph is drawn using links that represent mutual connections with “Already known” or “Recovery” [levels](../making-connections/connection-levels.md). Connections that are one-sided or have “Just met” or “Suspicious” [levels](../making-connections/connection-levels.md) are ignored in the default view because they don’t represent real social relationships and aren’t useful for Sybil detection methods based on these relationships.
 
-Links are colored based on [connection levels](../connection-levels.md). “Already known” connections are orange and “Recovery” connections are blue. When different sides of a connection have different levels, colors of arrows on the links can help to find out the level of each side.
+Links are colored based on [connection levels](../making-connections/connection-levels.md). “Already known” connections are orange and “Recovery” connections are blue. When different sides of a connection have different levels, colors of arrows on the links can help to find out the level of each side.
 
 ![](../.gitbook/assets/BrightID\_explorer\_1.png)
 

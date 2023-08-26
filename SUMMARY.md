@@ -2,9 +2,9 @@
 
 * [🔆 BrightID](README.md)
 * [✨ Getting Started](getting-started.md)
-* [🤝 Making Connections](making-connections/README.md)
-  * [✅ Connection Levels](making-connections/connection-levels.md)
-* [🟠 Getting Verified](getting-verified/README.md)
+* [🤝 Making Connections](making-connections.md)
+  * [✅ Connection Levels](connection-levels.md)
+* [🟠 BrightID Verifications](getting-verified/README.md)
   * [Bitu Verification](getting-verified/bitu-verification.md)
 * [🔗 Linking Apps](linking-brightid-to-applications/README.md)
   * [1Hive - Honey Faucet](linking-brightid-to-applications/1hive-honey-faucet.md)

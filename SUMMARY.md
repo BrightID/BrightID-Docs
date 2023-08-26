@@ -3,7 +3,7 @@
 * [🔆 BrightID](README.md)
 * [✨ Install & Get Started](getting-started/README.md)
   * [🔁 Update/Upgrade](getting-started/update-upgrade.md)
-* [🟠 BrightID Verifications](getting-verified/README.md)
+* [🟠 Receive Verifications](getting-verified/README.md)
   * [Bitu Verification](getting-verified/bitu-verification.md)
   * [🤝 Making Connections](getting-verified/making-connections/README.md)
     * [✅ Connection Levels](getting-verified/making-connections/connection-levels.md)

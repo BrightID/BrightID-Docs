@@ -4,7 +4,7 @@ description: Receiving verification badges
 
 # 🟠 Receive Verifications
 
-You receive verification badges on your BrightID based on connections you make with your BrightID. The connections are represented in BrightID network infrastructure as an anonymous social graph. It is analyzed through each of the verification protocols to determine which kind of badges you are able to receive. If you do not have any, the app will say "Verifications: none".\
+You receive verification badges on your BrightID based on [connections you make](making-connections/). The connections are represented in BrightID network infrastructure as an anonymous social graph. It is analyzed through each of the verification protocols to determine which kind of badges you are able to receive. If you have not have not received any, the app will say "Verifications: none". If you do not have the right kind of connections a protocol seeks, you will not receive the kind of badge that the protocol depends upon.\
 \
 Furthermore, different apps require you to have different verification badges. So far most of them check if you have the Meets verification on your BrightID.
 

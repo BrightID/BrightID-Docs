@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🔆 BrightID](README.md)
-* [✨ Getting Started](getting-started.md)
+* [✨ Install & Get Started](getting-started.md)
 * [🤝 Making Connections](making-connections.md)
   * [✅ Connection Levels](connection-levels.md)
 * [🟠 BrightID Verifications](getting-verified/README.md)

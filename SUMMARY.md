@@ -4,7 +4,7 @@
 * [✨ Install & Get Started](getting-started/README.md)
   * [🔁 Update/Upgrade](getting-started/update-upgrade.md)
 * [🟠 Receive Verifications](getting-verified/README.md)
-  * [Page 1](getting-verified/page-1.md)
+  * [Meets Verification](getting-verified/meets-verification.md)
   * [Bitu Verification](getting-verified/bitu-verification.md)
   * [🤝 Making Connections](getting-verified/making-connections/README.md)
     * [✅ Connection Levels](getting-verified/making-connections/connection-levels.md)

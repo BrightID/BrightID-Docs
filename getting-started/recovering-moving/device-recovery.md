@@ -13,14 +13,14 @@ If, for some reason, after updating, BrightID app in your old phone has an error
 \
 Watching out for new update announcements and keeping your and your connection's BrightID updated is a good practice to ensure your recovery goes smoothly. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements.\
 \
-Use the [Update/Upgrade](../getting-started/update-upgrade.md) guide for important details on how to be up-to-date.
+Use the [Update/Upgrade](../update-upgrade.md) guide for important details on how to be up-to-date.
 {% endhint %}
 
 ### Moving your BrightID to new phone
 
 **Step 1.** Install the BrightID app on your new phone. After successfully installing, open the BrightID app and select the "Device Recovery" option - previously the button was labeled as "Import".
 
-![](../.gitbook/assets/AddingDevice\_Step1.png)
+![](../../.gitbook/assets/AddingDevice\_Step1.png)
 
 **Step 2.** After the QR Code appears on the new phone, launch BrightID on your old phone. Select 'Scan a code' on your old phone.
 
@@ -28,25 +28,25 @@ Use the [Update/Upgrade](../getting-started/update-upgrade.md) guide for importa
 If you just want to move your BrightID to the new phone, select the **"set as primary device"** option above the QR code before you scan the code.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/AddingDevice_Step2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/AddingDevice_Step2.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** With old phone, scan the QR Code shown on your new phone.
 
 **Step 4.** On your old phone, confirm that you want to export your BrightID to new phone. Then add the name of new phone. E.g., "Main"
 
-<figure><img src="../.gitbook/assets/AddingDevice_Step4_b.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/AddingDevice_Step4_b.png" alt=""><figcaption></figcaption></figure>
 
 **Step 5.** The app on your old phone will start adding your new phone and upload your data to the new phone. The process will take about 15-30 seconds.
 
-![](../.gitbook/assets/AddingDevice\_Step5.png)
+![](../../.gitbook/assets/AddingDevice\_Step5.png)
 
 **Step 6.** Once the process is done, your old phone will open the 'Devices' page and show the new phone successfully added to the list of devices.
 
-![](<../.gitbook/assets/AddingDevice\_Step6 (1).png>)
+![](<../../.gitbook/assets/AddingDevice\_Step6 (1).png>)
 
 **Step 7.** Have a look at your new phone. Wait for the app on your new phone to download your BrightID data. Once the process is finished, the app will open the home screen and you are done.
 
-![](../.gitbook/assets/AddingDevice\_Step7.png)
+![](../../.gitbook/assets/AddingDevice\_Step7.png)
 
 {% hint style="danger" %}
 We suggest you double-check the **verification badge, number of connections, achievements,** and **apps linked** on your new phone. If you find some data <mark style="color:red;">**fails**</mark> to be transferred correctly from one device to another, please report it to us. It will help us notify the bugs on this new feature and solve it.\

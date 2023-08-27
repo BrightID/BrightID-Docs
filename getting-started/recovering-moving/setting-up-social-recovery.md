@@ -44,7 +44,7 @@ For recovery, two types of information is secured, the first being the most esse
 
 **Step 1.** Go to Menu on your BrightID app's home screen.&#x20;
 
-![](<../.gitbook/assets/Social Recovery\_S1.png>)
+![](<../../.gitbook/assets/Social Recovery\_S1.png>)
 
 **Step 2.** Select Recovery Connections.
 
@@ -58,7 +58,7 @@ If you are new to BrightID, and since Social Recovery is so important, you will 
 Again, recovery connections are meant to help you recover your BrightID. Be careful whom you choose because they can take over your BrightID if two of them decide to cooperate against you.
 {% endhint %}
 
-![](<../.gitbook/assets/Social Recovery\_S3.png>)
+![](<../../.gitbook/assets/Social Recovery\_S3.png>)
 
 The app will show you the list of eligible people for your recovery connection.&#x20;
 
@@ -68,7 +68,7 @@ The eligibility criteria for someone to be your recovery connection is that the 
 
 **Step 4.** Click the 'Add' button to confirm your selection.
 
-![](<../.gitbook/assets/Social Recovery\_S4.png>)
+![](<../../.gitbook/assets/Social Recovery\_S4.png>)
 
 ### 2) Securing Profile data
 
@@ -83,30 +83,30 @@ If, for some reason, after updating their BrightID, your recovery connections ge
 \
 Watching out for new update announcements and keeping your and your connection's BrightID updated is a good practice to ensure your recovery goes smoothly. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements.\
 \
-Use the [Update/Upgrade](../getting-started/update-upgrade.md) guide for important details on how to be up-to-date.
+Use the [Update/Upgrade](../update-upgrade.md) guide for important details on how to be up-to-date.
 {% endhint %}
 
 **Step 1.** Install the BrightId app on your mobile phone. Select the “Recover” button on the screen you see when you first open the BrightID app.
 
-<figure><img src="../.gitbook/assets/Recovery w SR_S1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recovery w SR_S1.png" alt=""><figcaption></figcaption></figure>
 
 **Step 2.** The app will show a QR code. Show the QR code to two of your recovery connections or Select 'Copy' to share it with them as a link.&#x20;
 
-<figure><img src="../.gitbook/assets/Recovery w SR_S2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recovery w SR_S2 (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3.** On your friend side, after they scan your QR code or open the link you share, your friends will see a list of users. They must carefully identify you and correctly select your BrightID as the BrightID they are helping to recover.
 
-<figure><img src="../.gitbook/assets/Recovery w SR_S3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recovery w SR_S3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You will be notified every time one of them scans the code or uses the link.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Recovery w SR_S3_i (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recovery w SR_S3_i (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4.** Once two of your recovery connections finish **Step 3**, the app will start downloading your data from your recovery connections. A green check mark will indicate that the downloading process is done.
 
-<figure><img src="../.gitbook/assets/Recovery w SR_S4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recovery w SR_S4.png" alt=""><figcaption></figcaption></figure>
 
 **Step 5.** Enter your password to restore the profile data.
 
@@ -114,11 +114,11 @@ You will be notified every time one of them scans the code or uses the link.&#x2
 Recovery is much smoother if you **remember the password,** but if you do not remember it, you may skip it. As mentioned earlier, it is less essential than recovering your private key for your recovered BrightID to be functional.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Recovery w SR_S5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recovery w SR_S5.png" alt=""><figcaption></figcaption></figure>
 
 Once all steps are done, you will be taken to your BrightID home screen. Congratulations! 🎊
 
-<figure><img src="../.gitbook/assets/Recovery w SR_S6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recovery w SR_S6.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 When you recover, BrightID in your old phone becomes invalidated and useless if you or someone still has it. If you have the old phone, it is safe to uninstall BrightID from it.
@@ -156,7 +156,7 @@ As mentioned before, BrightID on the stolen or old mobile phone automatically be
 
 **Step 3.** Select the blue pencil icon next to the recovery connection you want to remove or downgrade.
 
-**Step 4.** Change that connection level from "🔐 **Recovery"** to "😎 **Already Known"** or any other connection level. See more info about connection levels [here](../getting-verified/making-connections/connection-levels.md).
+**Step 4.** Change that connection level from "🔐 **Recovery"** to "😎 **Already Known"** or any other connection level. See more info about connection levels [here](../../getting-verified/making-connections/connection-levels.md).
 
 **Step 5.** Click the 'Save' button to confirm the change you made.
 

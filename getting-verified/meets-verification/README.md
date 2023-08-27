@@ -14,6 +14,6 @@ The protocol requires that the member of the public _show_ themselves clearly on
 
 [Meetings are available in select languages.\
 ](https://meet.brightid.org)\
-[Making connection](making-connections/) is same as connecting with one's close connections. Host presents connection QR code over video which can be scanned with BrightID mobile app, or alternatively a link is presented that initiates the connection if one is attending meeting with a mobile phone.\
+[Making connection](../making-connections/) is same as connecting with one's close connections. Host presents connection QR code over video which can be scanned with BrightID mobile app, or alternatively a link is presented that initiates the connection if one is attending meeting with a mobile phone.\
 \
 After a successful meeting and connection, it takes about half an hour for the member of the public to receive the Meets verification badge. It shows up as a badge under their profile name in BrightID app.

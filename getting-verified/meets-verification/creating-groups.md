@@ -20,7 +20,7 @@ The Group feature in BrightID gives BrightID users the ability to be trusted age
 
 🎉  you got your group added to the graph.
 
-![How to create group](<.gitbook/assets/Creating Group\_P1.png>)
+![How to create group](<../../.gitbook/assets/Creating Group\_P1.png>)
 
 ### How to turn your group into a seed group?
 

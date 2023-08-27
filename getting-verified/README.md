@@ -10,7 +10,7 @@ Furthermore, different apps require you to have different verification badges. S
 
 There are so far three kinds of verifications, two of which are live (Meets and Bitu), and one is under development (Aura).
 
-1. [Meets verification](meets-verification.md)
+1. [Meets verification](meets-verification/)
 2. [Bitu verification](bitu-verification.md)
 3. Aura verifications
 

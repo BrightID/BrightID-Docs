@@ -8,7 +8,7 @@ The protocol works with the member of the public making a connection with one of
 \
 In practice, Hosts hold connection parties over zoom at a more or less regular [schedule](https://meet.brightid.org) so that the member of the public can make connection with the host. All meetings are open to join at the scheduled time and remain open to join only for 5 minutes.
 
-## What does the public need to in the meeting?
+## What does the public need to do in the connection meeting?
 
 The protocol requires that the member of the public _show_ themselves clearly on video. They also need to _listen_ carefully and _respond_ sensibly if the host asks them to respond. If there is no response, or the response is not sensible, host refuses to make connection with them. So, it is important for the member of the public to either attend meeting in the language they understand and speak well, or they need to take a human translator who can help them listen and respond appropriately during the meeting.
 

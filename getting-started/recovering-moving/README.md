@@ -4,7 +4,7 @@ description: >-
   new phone.
 ---
 
-# 🔐 Recovering/Moving
+# 🔐 Recover/Move
 
 1.  Social Recovery is a great way to recover/move if you have three or more close family, friend, colleague, or community kinship who would not mind being your recovery connection. It can be quite effective:
 

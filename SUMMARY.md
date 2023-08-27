@@ -13,7 +13,7 @@
   * [Aura Verifications](https://brightid.gitbook.io/aura/intro/readme)
   * [🤝 Making Connections](getting-verified/making-connections/README.md)
     * [✅ Connection Levels](getting-verified/making-connections/connection-levels.md)
-* [🔗 Connect to Apps](linking-brightid-to-applications/README.md)
+* [🎟 Connect to Apps](linking-brightid-to-applications/README.md)
   * [1Hive - Honey Faucet](linking-brightid-to-applications/1hive-honey-faucet.md)
   * [Gitcoin](linking-brightid-to-applications/gitcoin.md)
   * [Burn Signal](linking-brightid-to-applications/burn-signal.md)

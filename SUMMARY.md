@@ -8,7 +8,7 @@
   * [Bitu Verification](getting-verified/bitu-verification.md)
   * [🤝 Making Connections](getting-verified/making-connections/README.md)
     * [✅ Connection Levels](getting-verified/making-connections/connection-levels.md)
-* [🔗 Linking Apps](linking-brightid-to-applications/README.md)
+* [🔗 Connecting to Apps](linking-brightid-to-applications/README.md)
   * [1Hive - Honey Faucet](linking-brightid-to-applications/1hive-honey-faucet.md)
   * [Gitcoin](linking-brightid-to-applications/gitcoin.md)
   * [Burn Signal](linking-brightid-to-applications/burn-signal.md)

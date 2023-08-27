@@ -12,6 +12,6 @@ There are so far three kinds of verifications, two of which are live (Meets and 
 
 1. [Meets verification](meets-verification/)
 2. [Bitu verification](bitu-verification.md)
-3. Aura verifications
+3. [Aura verifications](https://brightid.gitbook.io/aura/intro/readme)
 
 <figure><img src="../.gitbook/assets/FmP18tvaYAMnJjU.jpeg" alt="BrightID Verification badges"><figcaption><p>BrightID Verification badges</p></figcaption></figure>

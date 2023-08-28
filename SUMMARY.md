@@ -6,7 +6,7 @@
   * [🔐 Recover/Move](getting-started/recovering-moving/README.md)
     * [👯 Social Recovery](getting-started/recovering-moving/setting-up-social-recovery.md)
     * [📲 Device Recovery](getting-started/recovering-moving/device-recovery.md)
-* [🟠 Receive Verifications](verifications/README.md)
+* [☑ Receive Verifications](verifications/README.md)
   * [↔ Meets Verification](verifications/meets-verification/README.md)
     * [🌱 Seed Groups](verifications/meets-verification/creating-groups.md)
   * [🔃 Bitu Verification](verifications/bitu-verification.md)

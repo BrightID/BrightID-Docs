@@ -2,7 +2,7 @@
 description: Install, setup profile, and get to know the app
 ---
 
-# ✨ Install & Get Started
+# ↘ Install & Get Oriented
 
 If you have not installed BrightID mobile app already, please install it:
 

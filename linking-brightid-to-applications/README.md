@@ -2,7 +2,7 @@
 description: Enjoying the benefits of your unique identity
 ---
 
-# 🔗 Linking Apps
+# ✅ Connect to Apps
 
 Apps use BrightID to keep fake accounts out and make sure that you get the most out of your unique identity. First, you need to be verified for each app in order to start using it. &#x20;
 

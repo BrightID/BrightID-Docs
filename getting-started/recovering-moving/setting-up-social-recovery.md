@@ -156,7 +156,7 @@ As mentioned before, BrightID on the stolen or old mobile phone automatically be
 
 **Step 3.** Select the blue pencil icon next to the recovery connection you want to remove or downgrade.
 
-**Step 4.** Change that connection level from "🔐 **Recovery"** to "😎 **Already Known"** or any other connection level. See more info about connection levels [here](../../getting-verified/making-connections/connection-levels.md).
+**Step 4.** Change that connection level from "🔐 **Recovery"** to "😎 **Already Known"** or any other connection level. See more info about connection levels [here](../../verifications/making-connections/connection-levels.md).
 
 **Step 5.** Click the 'Save' button to confirm the change you made.
 

@@ -2,7 +2,7 @@
 description: Seeds, Connection parties and meeting schedules
 ---
 
-# Meets Verification
+# ↔ Meets Verification
 
 The Meets verification is the first and the most basic verification protocol/mechanism BrightID project has had since the beginning. For a long time it had been the only verification. [Bitu](../bitu-verification.md) and [Aura](http://127.0.0.1:5000/o/-Mk6LhpUAwiJGeZ-g2uM/s/jGtnCGfucgnFNbDgcdxy/) verifications are recent developments.\
 \

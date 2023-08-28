@@ -8,7 +8,7 @@
     * [📲 Device Recovery](getting-started/recovering-moving/device-recovery.md)
 * [🟠 Receive Verifications](getting-verified/README.md)
   * [Meets Verification](getting-verified/meets-verification/README.md)
-    * [🤼 Seed Groups](getting-verified/meets-verification/creating-groups.md)
+    * [🌱 Seed Groups](getting-verified/meets-verification/creating-groups.md)
   * [Bitu Verification](getting-verified/bitu-verification.md)
   * [Aura Verifications](https://brightid.gitbook.io/aura/intro/readme)
   * [🤝 Making Connections](getting-verified/making-connections/README.md)

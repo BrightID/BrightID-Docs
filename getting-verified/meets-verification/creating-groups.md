@@ -1,8 +1,8 @@
 ---
-description: Presenting your communities
+description: Community integration
 ---
 
-# 🤼 Creating Groups
+# 🤼 Seed Groups
 
 The communities you belong to are also a part of your identity and can help your verification on BrightID. The groups represent communities on BrightID.
 

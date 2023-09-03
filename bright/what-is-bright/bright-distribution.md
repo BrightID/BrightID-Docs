@@ -12,8 +12,8 @@ Minting is limited in the token contract to 10 million $BRIGHT per year. An addi
 
 This will supply BrightDAO’s initiatives for the upcoming year and beyond. BrightDAO can mint up to 10 million $BRIGHT per year as set forth in “[Max Supply](bright-distribution.md#max-supply)”.
 
-{% content-ref url="../../brightdao/bright-dao/" %}
-[bright-dao](../../brightdao/bright-dao/)
+{% content-ref url="../bright-dao/" %}
+[bright-dao](../bright-dao/)
 {% endcontent-ref %}
 
 ### :gift: Past actions (6.85 million) <a href="#past-actions" id="past-actions"></a>
@@ -28,8 +28,8 @@ This will supply BrightDAO’s initiatives for the upcoming year and beyond. Bri
 {% tab title="Farming" %}
 ### :man\_farmer:Farming (6,700,000)
 
-{% content-ref url="../../brightdao/getting-bright/subs-staking/" %}
-[subs-staking](../../brightdao/getting-bright/subs-staking/)
+{% content-ref url="../getting-bright/farming/" %}
+[farming](../getting-bright/farming/)
 {% endcontent-ref %}
 
 #### :heavy\_check\_mark: Stake $BRIGHT/HNY LP in the farm (350,000) , 2 months
@@ -81,8 +81,8 @@ We want to distribute $BRIGHT to all past members, but also those that join the 
 {% tab title="Voting" %}
 ### :lock:Wrapping $BRIGHT for voting (100,000)
 
-{% content-ref url="../../brightdao/getting-bright/subs-staking/wrapping-bright.md" %}
-[wrapping-bright.md](../../brightdao/getting-bright/subs-staking/wrapping-bright.md)
+{% content-ref url="../bright-dao/wrapping-bright.md" %}
+[wrapping-bright.md](../bright-dao/wrapping-bright.md)
 {% endcontent-ref %}
 {% endtab %}
 

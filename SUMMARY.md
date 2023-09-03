@@ -22,14 +22,14 @@
 
 ## BrightDAO
 
-* [About](brightdao/bright-dao/README.md)
-  * [Learn more](brightdao/bright-dao/learn-more.md)
+* [About](bright/bright-dao/README.md)
+  * [Learn more](bright/bright-dao/learn-more.md)
 * [What is $BRIGHT?](bright/what-is-bright/README.md)
   * [$BRIGHT Distribution](bright/what-is-bright/bright-distribution.md)
 * [Getting $BRIGHT](bright/getting-bright/README.md)
-  * [Staking](brightdao/getting-bright/subs-staking/README.md)
-    * [Wrapping $BRIGHT](brightdao/getting-bright/subs-staking/wrapping-bright.md)
-    * [SUBS Staking](brightdao/getting-bright/subs-staking/subs-staking.md)
+  * [Staking](bright/getting-bright/farming/README.md)
+    * [Wrapping $BRIGHT](bright/bright-dao/wrapping-bright.md)
+    * [SUBS Staking](bright/getting-bright/farming/subs-staking.md)
 * [Forum](bright/bright-dao/forum.md)
 * [Voting](bright/bright-dao/voting.md)
 

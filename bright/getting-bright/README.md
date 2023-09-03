@@ -10,26 +10,26 @@
 
 ## Fairdrop
 
-[Eligible recipients](fairdrop/eligibility.md) claim $BRIGHT from the [official fairdrop site](https://fairdrop.brightid.org) beginning Sept 16th, 2021.
+[Eligible recipients](broken-reference) claim $BRIGHT from the [official fairdrop site](https://fairdrop.brightid.org) beginning Sept 16th, 2021.
 
-{% content-ref url="fairdrop/" %}
-[fairdrop](fairdrop/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Farming
 
 Check the [official $BRIGHT farming page](https://fairdrop.brightid.org/farms) to see where to get more $BRIGHT and what rewards are active.
 
-{% content-ref url="farming/" %}
-[farming](farming/)
+{% content-ref url="../../brightdao/getting-bright/subs-staking/" %}
+[subs-staking](../../brightdao/getting-bright/subs-staking/)
 {% endcontent-ref %}
 
 ## Voting
 
 Get rewarded with $BRIGHT for supporting initiatives in the community. When you wrap $BRIGHT to vote, you don’t need to spend it. This action earns more $BRIGHT as a reward.
 
-{% content-ref url="../bright-dao.md" %}
-[bright-dao.md](../bright-dao.md)
+{% content-ref url="../../brightdao/bright-dao/" %}
+[bright-dao](../../brightdao/bright-dao/)
 {% endcontent-ref %}
 
 ## Setting up social recovery

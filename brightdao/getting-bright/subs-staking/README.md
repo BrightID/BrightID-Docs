@@ -2,7 +2,7 @@
 description: How to use the $BRIGHT farms.
 ---
 
-# Farming
+# Staking
 
 There are three options to farm $BRIGHT:&#x20;
 
@@ -17,12 +17,12 @@ All farms are managed through the fairdrop site at [https://fairdrop.brightid.or
 [subs-staking.md](subs-staking.md)
 {% endcontent-ref %}
 
-{% content-ref url="usdbright-eth-uniswap-v3.md" %}
-[usdbright-eth-uniswap-v3.md](usdbright-eth-uniswap-v3.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="usdbright-honey-honeyswap.md" %}
-[usdbright-honey-honeyswap.md](usdbright-honey-honeyswap.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 

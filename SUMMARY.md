@@ -22,20 +22,16 @@
 
 ## BrightDAO
 
-* [About](brightdao/bright-dao.md)
-* [What is $BRIGHT?](brightdao/what-is-bright/README.md)
-  * [$BRIGHT Distribution](brightdao/what-is-bright/bright-distribution.md)
-* [Getting $BRIGHT](brightdao/getting-bright/README.md)
-  * [Fairdrop](brightdao/getting-bright/fairdrop/README.md)
-    * [Eligibility](brightdao/getting-bright/fairdrop/eligibility.md)
-  * [Farming](brightdao/getting-bright/farming/README.md)
-    * [SUBS Staking](brightdao/getting-bright/farming/subs-staking.md)
-    * [$BRIGHT - ETH Uniswap V3](brightdao/getting-bright/farming/usdbright-eth-uniswap-v3.md)
-    * [$BRIGHT - HONEY Honeyswap](brightdao/getting-bright/farming/usdbright-honey-honeyswap.md)
-* [Forum](brightdao/forum.md)
-* [Wrapping $BRIGHT](brightdao/wrapping-bright.md)
-* [Voting](brightdao/voting.md)
-* [Learn more](brightdao/learn-more.md)
+* [About](brightdao/bright-dao/README.md)
+  * [Learn more](brightdao/bright-dao/learn-more.md)
+* [What is $BRIGHT?](bright/what-is-bright/README.md)
+  * [$BRIGHT Distribution](bright/what-is-bright/bright-distribution.md)
+* [Getting $BRIGHT](bright/getting-bright/README.md)
+  * [Staking](brightdao/getting-bright/subs-staking/README.md)
+    * [Wrapping $BRIGHT](brightdao/getting-bright/subs-staking/wrapping-bright.md)
+    * [SUBS Staking](brightdao/getting-bright/subs-staking/subs-staking.md)
+* [Forum](bright/bright-dao/forum.md)
+* [Voting](bright/bright-dao/voting.md)
 
 ## IDChain
 

@@ -2,8 +2,8 @@
 
 As a $BRIGHT holder, you can vote on initiatives in [BrightDAO](https://dao.brightid.org). Voting doesn’t use up your tokens--in fact you can earn rewards as you hold $BRIGHT and participate in voting.
 
-{% content-ref url="wrapping-bright.md" %}
-[wrapping-bright.md](wrapping-bright.md)
+{% content-ref url="../../brightdao/getting-bright/subs-staking/wrapping-bright.md" %}
+[wrapping-bright.md](../../brightdao/getting-bright/subs-staking/wrapping-bright.md)
 {% endcontent-ref %}
 
 ‌Here are examples of initiatives you can support through your vote:‌
@@ -18,7 +18,7 @@ As a $BRIGHT holder, you can vote on initiatives in [BrightDAO](https://dao.brig
 
 You will need $BRIGHT to create a proposal or support existing proposals.
 
-{% content-ref url="getting-bright/" %}
-[getting-bright](getting-bright/)
+{% content-ref url="../getting-bright/" %}
+[getting-bright](../getting-bright/)
 {% endcontent-ref %}
 

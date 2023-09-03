@@ -1,13 +1,13 @@
 # What is $BRIGHT?
 
-$BRIGHT is the token behind [BrightDAO](../bright-dao.md)--a powerful community led by people like you with a diverse set of talents to make BrightID stronger.
+$BRIGHT is the token behind [BrightDAO](../../brightdao/bright-dao/)--a powerful community led by people like you with a diverse set of talents to make BrightID stronger.
 
 {% embed url="https://youtu.be/wzlbXf5Peig" %}
 
 
 
-{% content-ref url="../bright-dao.md" %}
-[bright-dao.md](../bright-dao.md)
+{% content-ref url="../../brightdao/bright-dao/" %}
+[bright-dao](../../brightdao/bright-dao/)
 {% endcontent-ref %}
 
 {% content-ref url="../getting-bright/" %}

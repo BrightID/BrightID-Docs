@@ -2,7 +2,7 @@
 description: What is BrightDAO?
 ---
 
-# BrightDAO
+# About
 
 The [goal of BrightDAO](https://dao.brightid.org) is to broaden the community that supports BrightID.
 

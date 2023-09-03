@@ -3,7 +3,7 @@
 You must wrap $BRIGHT before you can use it to create or support proposals.  Wrapped $BRIGHT becomes gBRIGHT.  It can be unwrapped at any time, but you will lose your voting power.\
 
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../../.gitbook/assets/image (18).png>)
 
 Wrapped $BRIGHT (gBRIGHT) automatically earns more $BRIGHT from the voting rewards farm.
 

@@ -81,8 +81,8 @@ We want to distribute $BRIGHT to all past members, but also those that join the 
 {% tab title="Voting" %}
 ### :lock:Wrapping $BRIGHT for voting (100,000)
 
-{% content-ref url="../../brightdao/getting-bright/wrapping-bright.md" %}
-[wrapping-bright.md](../../brightdao/getting-bright/wrapping-bright.md)
+{% content-ref url="../bright-dao/wrapping-bright.md" %}
+[wrapping-bright.md](../bright-dao/wrapping-bright.md)
 {% endcontent-ref %}
 {% endtab %}
 

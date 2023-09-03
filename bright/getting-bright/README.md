@@ -12,15 +12,15 @@
 
 Staking $SUBS earns you more $BRIGHT.
 
-{% content-ref url="../../brightdao/getting-bright/subs-staking.md" %}
-[subs-staking.md](../../brightdao/getting-bright/subs-staking.md)
+{% content-ref url="farming/subs-staking.md" %}
+[subs-staking.md](farming/subs-staking.md)
 {% endcontent-ref %}
 
-## BrightDAO Staking
+## BrightDAO $BRIGHT Staking
 
-Get rewarded with $BRIGHT for supporting initiatives in the community. When you wrap $BRIGHT to vote, you don’t need to spend it. This action earns more $BRIGHT as a reward.
+Get rewarded with $BRIGHT for supporting initiatives in the community. When you stake by wrapping $BRIGHT to vote, you don’t need to spend it. This action earns more $BRIGHT as a reward.
 
-{% content-ref url="../../brightdao/getting-bright/wrapping-bright.md" %}
-[wrapping-bright.md](../../brightdao/getting-bright/wrapping-bright.md)
+{% content-ref url="../bright-dao/wrapping-bright.md" %}
+[wrapping-bright.md](../bright-dao/wrapping-bright.md)
 {% endcontent-ref %}
 

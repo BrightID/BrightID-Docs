@@ -28,8 +28,8 @@ Check the [official $BRIGHT farming page](https://fairdrop.brightid.org/farms) t
 
 Get rewarded with $BRIGHT for supporting initiatives in the community. When you wrap $BRIGHT to vote, you don’t need to spend it. This action earns more $BRIGHT as a reward.
 
-{% content-ref url="../bright-dao/" %}
-[bright-dao](../bright-dao/)
+{% content-ref url="../bright-dao.md" %}
+[bright-dao.md](../bright-dao.md)
 {% endcontent-ref %}
 
 ## Setting up social recovery

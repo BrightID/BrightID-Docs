@@ -18,7 +18,7 @@ As a $BRIGHT holder, you can vote on initiatives in [BrightDAO](https://dao.brig
 
 You will need $BRIGHT to create a proposal or support existing proposals.
 
-{% content-ref url="../getting-bright/" %}
-[getting-bright](../getting-bright/)
+{% content-ref url="getting-bright/" %}
+[getting-bright](getting-bright/)
 {% endcontent-ref %}
 

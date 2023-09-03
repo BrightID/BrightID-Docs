@@ -20,22 +20,22 @@
   * [Clr.Fund](linking-brightid-to-applications/clr.fund.md)
 * [❓ FAQ](frequently-asked-questions.md)
 
-## $BRIGHT <a href="#bright" id="bright"></a>
+## BrightDAO
 
-* [What is $BRIGHT?](bright/what-is-bright/README.md)
-  * [$BRIGHT Distribution](bright/what-is-bright/bright-distribution.md)
-* [Getting $BRIGHT](bright/getting-bright/README.md)
-  * [Fairdrop](bright/getting-bright/fairdrop/README.md)
-    * [Eligibility](bright/getting-bright/fairdrop/eligibility.md)
-  * [Farming](bright/getting-bright/farming/README.md)
-    * [SUBS Staking](bright/getting-bright/farming/subs-staking.md)
-    * [$BRIGHT - ETH Uniswap V3](bright/getting-bright/farming/usdbright-eth-uniswap-v3.md)
-    * [$BRIGHT - HONEY Honeyswap](bright/getting-bright/farming/usdbright-honey-honeyswap.md)
-* [BrightDAO](bright/bright-dao/README.md)
-  * [Forum](bright/bright-dao/forum.md)
-  * [Voting](bright/bright-dao/voting.md)
-  * [Wrapping $BRIGHT](bright/bright-dao/wrapping-bright.md)
-  * [Learn more](bright/bright-dao/learn-more.md)
+* [About](brightdao/bright-dao.md)
+* [What is $BRIGHT?](brightdao/what-is-bright/README.md)
+  * [$BRIGHT Distribution](brightdao/what-is-bright/bright-distribution.md)
+* [Getting $BRIGHT](brightdao/getting-bright/README.md)
+  * [Fairdrop](brightdao/getting-bright/fairdrop/README.md)
+    * [Eligibility](brightdao/getting-bright/fairdrop/eligibility.md)
+  * [Farming](brightdao/getting-bright/farming/README.md)
+    * [SUBS Staking](brightdao/getting-bright/farming/subs-staking.md)
+    * [$BRIGHT - ETH Uniswap V3](brightdao/getting-bright/farming/usdbright-eth-uniswap-v3.md)
+    * [$BRIGHT - HONEY Honeyswap](brightdao/getting-bright/farming/usdbright-honey-honeyswap.md)
+* [Forum](brightdao/forum.md)
+* [Wrapping $BRIGHT](brightdao/wrapping-bright.md)
+* [Voting](brightdao/voting.md)
+* [Learn more](brightdao/learn-more.md)
 
 ## IDChain
 

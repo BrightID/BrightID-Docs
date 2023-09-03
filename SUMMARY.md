@@ -25,7 +25,7 @@
 * [About](bright/bright-dao/README.md)
   * [Forum](brightdao/bright-dao/forum.md)
   * [Voting](brightdao/bright-dao/voting.md)
-  * [Learn more](bright/bright-dao/learn-more.md)
+  * [1Hive Gardens DAO](bright/bright-dao/learn-more.md)
 * [What is $BRIGHT?](bright/what-is-bright/README.md)
   * [$BRIGHT Distribution](bright/what-is-bright/bright-distribution.md)
 * [Getting $BRIGHT](bright/getting-bright/README.md)

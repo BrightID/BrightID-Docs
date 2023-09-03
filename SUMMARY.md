@@ -29,9 +29,8 @@
 * [What is $BRIGHT?](bright/what-is-bright/README.md)
   * [$BRIGHT Distribution](bright/what-is-bright/bright-distribution.md)
 * [Getting $BRIGHT](bright/getting-bright/README.md)
-  * [Staking](bright/getting-bright/farming/README.md)
-    * [Wrapping $BRIGHT](bright/bright-dao/wrapping-bright.md)
-    * [SUBS Staking](bright/getting-bright/farming/subs-staking.md)
+  * [SUBS Staking](brightdao/getting-bright/subs-staking.md)
+  * [Wrapping $BRIGHT](brightdao/getting-bright/wrapping-bright.md)
 
 ## IDChain
 

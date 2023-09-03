@@ -10,17 +10,17 @@
 
 ## Staking
 
-Check the [official $BRIGHT farming page](https://fairdrop.brightid.org/farms) to see where to get more $BRIGHT and what rewards are active.
+Staking $SUBS earns you more $BRIGHT.
 
-{% content-ref url="farming/" %}
-[farming](farming/)
+{% content-ref url="../../brightdao/getting-bright/subs-staking.md" %}
+[subs-staking.md](../../brightdao/getting-bright/subs-staking.md)
 {% endcontent-ref %}
 
-## Voting
+## BrightDAO Staking
 
 Get rewarded with $BRIGHT for supporting initiatives in the community. When you wrap $BRIGHT to vote, you don’t need to spend it. This action earns more $BRIGHT as a reward.
 
-{% content-ref url="../bright-dao/wrapping-bright.md" %}
-[wrapping-bright.md](../bright-dao/wrapping-bright.md)
+{% content-ref url="../../brightdao/getting-bright/wrapping-bright.md" %}
+[wrapping-bright.md](../../brightdao/getting-bright/wrapping-bright.md)
 {% endcontent-ref %}
 

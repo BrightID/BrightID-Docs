@@ -28,8 +28,8 @@ This will supply BrightDAO’s initiatives for the upcoming year and beyond. Bri
 {% tab title="Farming" %}
 ### :man\_farmer:Farming (6,700,000)
 
-{% content-ref url="../getting-bright/farming/" %}
-[farming](../getting-bright/farming/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 #### :heavy\_check\_mark: Stake $BRIGHT/HNY LP in the farm (350,000) , 2 months
@@ -81,8 +81,8 @@ We want to distribute $BRIGHT to all past members, but also those that join the 
 {% tab title="Voting" %}
 ### :lock:Wrapping $BRIGHT for voting (100,000)
 
-{% content-ref url="../bright-dao/wrapping-bright.md" %}
-[wrapping-bright.md](../bright-dao/wrapping-bright.md)
+{% content-ref url="../../brightdao/getting-bright/wrapping-bright.md" %}
+[wrapping-bright.md](../../brightdao/getting-bright/wrapping-bright.md)
 {% endcontent-ref %}
 {% endtab %}
 

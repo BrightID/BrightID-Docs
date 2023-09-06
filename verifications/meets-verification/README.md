@@ -18,7 +18,7 @@ The Meets protocol mechanism works by the member of the public making a connecti
 \
 In practice, Hosts hold connection parties over zoom in a regular [schedule](https://meet.brightid.org) so that the member of the public can meet and make connection with the host.
 
-As to the mechanism of how Hosts or Seeds come about, see the next section on [Seed Groups.](creating-groups.md)
+As to the mechanism of how Hosts or Seeds come about, see the next section on [Seed Groups.](seed-groups.md)
 
 ### What does the public need to do in the meeting?
 

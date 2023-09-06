@@ -1,10 +1,12 @@
 ---
 description: >-
-  The following two procedures can be used to recover or move your BrightID to a
-  new phone.
+  The password you set on your profile screen is NOT your recovery. There is
+  also no seed phrase, as BrightID is NOT a wallet.
 ---
 
 # 🔐 Recover/Move
+
+#### One or both of the following two procedures can be used to recover, or move your BrightID to a new phone.
 
 1.  Social Recovery is a great way to recover/move if you have three or more close family, friend, colleague, or community kinship who would not mind being your recovery connection. It can be quite effective:
 

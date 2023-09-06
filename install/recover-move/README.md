@@ -1,7 +1,8 @@
 ---
 description: >-
-  The password you set on your profile screen is NOT your recovery. There is
-  also no seed phrase, as BrightID is NOT a wallet.
+  The password you set on your profile screen is NOT your recovery. Do NOT rely
+  on the password. There is also no seed phrase. BrightID is NOT a blockchain
+  wallet.
 ---
 
 # 🔐 Recover/Move

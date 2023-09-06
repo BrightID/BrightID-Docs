@@ -26,6 +26,10 @@ All BrightID hosts conducting connection parties and helping members of the publ
 
 ![How to create group](<../../.gitbook/assets/Creating Group\_P1.png>)
 
+{% hint style="info" %}
+Disambiguation: Please take careful note that Seed group groups are different and independent from _**Connection Type: Group code**_ found in Home screen -> My Code -> Connection Type toggle. That group code is only to facilitate making several connections at once rather than doing it individually multiple times. This independent feature is however, is used by hosts to make connections with multiple members of the public at connection parties.
+{% endhint %}
+
 ### How to turn your group into a seed group?
 
 After creating your group, you can apply for the Seed Group Nomination by filling out this form [**BrightID Seed Group Nomination Form**](https://docs.google.com/forms/d/e/1FAIpQLSd5ma8NIyNmOFfgYGOYXC0rQITWSQgLepe1xzIy5dDy5sNXRA/viewform).
@@ -36,7 +40,7 @@ BMainDAO members will assess the application and will contact you for further as
 * Any group member, with their "Seed" badge, can make connections with members of the public for the public to receive the 'Meets' verification.
 
 {% hint style="info" %}
-To receive verification, people do not actually need to join the group; they only have to make at least a "Just met" connect to a group member, at an event like BrightID connection parties hosted by the members of the community's seed group.\
+To receive verification, people do not actually need to join the seed group; they only have to make at least a "Just met" connect to a group member, at an event like BrightID connection parties hosted by the members of the community's seed group.\
 \
 Some more details of the Seed group mechanisms:
 

@@ -4,13 +4,13 @@ description: Seeds, Connection parties and meeting schedules
 
 # ↔ Meets Verification
 
-The Meets verification is the first and the most basic verification protocol/mechanism BrightID project has had since the beginning. For a long time it had been the only verification. [Bitu](../bitu-verification.md) and [Aura](http://127.0.0.1:5000/o/-Mk6LhpUAwiJGeZ-g2uM/s/jGtnCGfucgnFNbDgcdxy/) verifications are recent developments.\
+The Meets verification is the first and the most basic verification protocol/mechanism BrightID project has had since the beginning. For a long time it had been the only verification. [Bitu](../bitu-verification.md) and Aura verifications(under construction) are recent developments.\
 \
 The social identity network that BrightID project set out to build had a cold start problem. The graph needed to be seeded with people and their relations before higher level verifications could be built upon them. No existing social graphs fit the bill at the time when BrightID began, so Meets protocol mechanism was built for the purpose. While BrightID was never meant to settle on the verification protocol, it is still the widely used verification. The characteristic verification parties of the protocol is what most people have gotten to know BrightID by and the perception is up for change in the mid future with Aura.\
 \
 So far, when any one of the app in the BrightID app registry asks the public to connect their BrightID, it is checking whether the public has ever received the Meets verification. In that way Meets plays an important role until Aura takes off.
 
-It is to be noted again that Meets protocol mechanism is an exception, and BrightID is meant to enable truly social identity network where one's identity depends upon, and is secured by, one's own close connections. The project has not reached that goal yet, but it should get there with [Bitu](../bitu-verification.md) and more specifically, [Aura](http://127.0.0.1:5000/o/-Mk6LhpUAwiJGeZ-g2uM/s/jGtnCGfucgnFNbDgcdxy/).
+It is to be noted again that Meets protocol mechanism is an exception, and BrightID is meant to enable truly social identity network where one's identity depends upon, and is secured by, one's own close connections. The project has not reached that goal yet, but it should get there with [Bitu](../bitu-verification.md) and more specifically, Aura.
 
 ### How Does Meets work?
 

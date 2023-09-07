@@ -10,7 +10,7 @@
   * [↔ Meets Verification](verifications/meets-verification/README.md)
     * [🌱 Seed Groups](verifications/meets-verification/seed-groups.md)
   * [🔃 Bitu Verification](verifications/bitu-verification.md)
-  * [🌀 Aura Verifications](https://brightid.gitbook.io/aura/intro/readme)
+  * [🌀 Aura Verifications (under construction)](https://brightid.gitbook.io/aura/intro/readme)
   * [🤝 Making Connections](verifications/making-connections/README.md)
     * [✅ Connection Levels](verifications/making-connections/connection-levels.md)
 * [✅ Connect to Apps](linking-brightid-to-applications/README.md)

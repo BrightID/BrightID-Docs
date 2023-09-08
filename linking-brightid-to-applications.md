@@ -14,7 +14,7 @@ Just as much as the members of the public, the internet citizens, need to have f
 
 ### Connecting
 
-Once you receive [verifications](verifications/) on your BrightID, you can connect your BrightID to an app by:
+Once you receive [verifications](verifications/) on your BrightID, you can connect your BrightID to an app so that they can check what verifications you have and allow fair and baseline rights of access by:
 
 * Scanning a QR code or using a link that is presented by the app.
 * This will automatically open the apps screen on your BrightID and ask for your confirmation.

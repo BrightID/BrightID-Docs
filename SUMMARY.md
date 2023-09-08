@@ -13,7 +13,7 @@
   * [🌀 Aura Verifications (under construction)](https://brightid.gitbook.io/aura/intro/readme)
   * [🤝 Making Connections](verifications/making-connections/README.md)
     * [✅ Connection Levels](verifications/making-connections/connection-levels.md)
-* [✅ Connect to Apps](linking-brightid-to-applications.md)
+* [✅ Connect to Apps](connect-to-apps.md)
 * [❓ FAQ](frequently-asked-questions.md)
 
 ## BrightDAO

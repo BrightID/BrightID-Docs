@@ -1,5 +1,5 @@
 ---
-description: Enjoy fair access to web3 properties
+description: Enjoy fair and baseline rights of access to web3 properties
 ---
 
 # ✅ Connect to Apps

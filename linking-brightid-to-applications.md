@@ -1,5 +1,5 @@
 ---
-description: Enjoying the benefits of your unique identity
+description: Enjoy fair access to web3 properties
 ---
 
 # ✅ Connect to Apps
@@ -12,11 +12,11 @@ You need to have your BrightID sponsored once by one app in order to use all app
 
 **Step 1:** Go to[ App Page](https://apps.brightid.org/) and click the website link of the applications you want to be linked to.
 
-![](<../.gitbook/assets/Screen Shot 2020-11-10 at 16.08.07.png>)
+![](<.gitbook/assets/Screen Shot 2020-11-10 at 16.08.07.png>)
 
 **Step 2:** Create an account on the chosen application.&#x20;
 
-![](<../.gitbook/assets/1Hive\_Account Registration.png>)
+![](<.gitbook/assets/1Hive\_Account Registration.png>)
 
 {% hint style="info" %}
 **Additional note:** Some applications require the user to download the application to create an account.
@@ -24,22 +24,22 @@ You need to have your BrightID sponsored once by one app in order to use all app
 
 Once your account is connected, you will be asked to verify your account with BrightID.
 
-![](../.gitbook/assets/1Hive\_Step6a.png)
+![](.gitbook/assets/1Hive\_Step6a.png)
 
 **Step 3:** Launch your BrightID application and click 'Scan a Code'
 
-![](<../.gitbook/assets/Link app.png>)
+![](<.gitbook/assets/Link app.png>)
 
 **Step 4:** Scan the barcode on your screen.
 
 **Step 5:** Confirm the connection on your BrightID application.
 
-![](<../.gitbook/assets/WhatsApp Image 2020-11-05 at 17.31.18 (1) (1).jpeg>)
+![](<.gitbook/assets/WhatsApp Image 2020-11-05 at 17.31.18 (1) (1).jpeg>)
 
 **Step 6:** Wait for the chosen application to be linked to your BrightID in seconds.&#x20;
 
-![](<../.gitbook/assets/WhatsApp Image 2020-11-05 at 17.31.18 (4).jpeg>)
+![](<.gitbook/assets/WhatsApp Image 2020-11-05 at 17.31.18 (4).jpeg>)
 
 🎊  Congratulations! Now your BrightID is linked to the application. It's time to enjoy the perks given by the applications for your verified account.
 
-![](<../.gitbook/assets/WhatsApp Image 2020-11-10 at 16.49.59.jpeg>)
+![](<.gitbook/assets/WhatsApp Image 2020-11-10 at 16.49.59.jpeg>)

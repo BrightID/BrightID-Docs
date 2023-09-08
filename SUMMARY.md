@@ -13,11 +13,7 @@
   * [🌀 Aura Verifications (under construction)](https://brightid.gitbook.io/aura/intro/readme)
   * [🤝 Making Connections](verifications/making-connections/README.md)
     * [✅ Connection Levels](verifications/making-connections/connection-levels.md)
-* [✅ Connect to Apps](linking-brightid-to-applications/README.md)
-  * [1Hive - Honey Faucet](linking-brightid-to-applications/1hive-honey-faucet.md)
-  * [Gitcoin](linking-brightid-to-applications/gitcoin.md)
-  * [Burn Signal](linking-brightid-to-applications/burn-signal.md)
-  * [Clr.Fund](linking-brightid-to-applications/clr.fund.md)
+* [✅ Connect to Apps](linking-brightid-to-applications.md)
 * [❓ FAQ](frequently-asked-questions.md)
 
 ## BrightDAO

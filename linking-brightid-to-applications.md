@@ -4,42 +4,14 @@ description: Enjoy fair access to web3 properties
 
 # ✅ Connect to Apps
 
-Apps use BrightID to keep fake accounts out and make sure that you get the most out of your unique identity. First, you need to be verified for each app in order to start using it. &#x20;
+Web3 is often described as the internet of value compared to the internet up till now being the internet of information exchange. Web3 properties on the internet, more often than not have some form of tokenized and tangible value to guard against unfair access.\
+\
+That is where BrightID's value lies. There is much more at stake in web3, and BrightID helps these properties accessible to all internet citizens as Apps, guard against unfair access.\
+\
+Just as much as the members of the public, the internet citizens, need to have fair access to web3 properties like quadratic funding projects like Gitcoin and CLR.fund; Universal dividends disbursal projects like Unitap; And UBI projects like Manna; These projects also need to ensure that the public is accessing the goods and service they make available, fairly. They need to ensure that the value they make available is not abused and undermined using multiple accounts. Else, they would not function well, if at all.
 
-Once you are verified for each app, you can link it to your BrightID by scanning a QR code or using a link that is provided on that app’s page. This will automatically open the apps page on BrightID and ask for your confirmation. The app will also recognize your BrightID after you confirm. None of your information whatsoever will be shared with apps. They will only get informed whether you are verified for using them.
+### Connecting
 
-You need to have your BrightID sponsored once by one app in order to use all apps for lifetime. If the app you want to use does not provide sponsorships, try getting your BrightID sponsored by another app first.
+Once you receive [verifications](verifications/) on your BrightID, you can connect your BrightID to an app by scanning a QR code or using a link that is presented by the app. This will automatically open the apps screen on your BrightID and ask for your confirmation. The app will also recognize your BrightID after you confirm. For the sake of your privacy, none of your personally identifying information like name, profile picture, and your connection data is shared with the apps. They will only be able to tell whether you have the verification they are seeking, and that is enough. In that way, [BrightID is not KYC like the way it is generally known](https://twitter.com/BrightIDProject/status/1587769127338319872).
 
-**Step 1:** Go to[ App Page](https://apps.brightid.org/) and click the website link of the applications you want to be linked to.
-
-![](<.gitbook/assets/Screen Shot 2020-11-10 at 16.08.07.png>)
-
-**Step 2:** Create an account on the chosen application.&#x20;
-
-![](<.gitbook/assets/1Hive\_Account Registration.png>)
-
-{% hint style="info" %}
-**Additional note:** Some applications require the user to download the application to create an account.
-{% endhint %}
-
-Once your account is connected, you will be asked to verify your account with BrightID.
-
-![](.gitbook/assets/1Hive\_Step6a.png)
-
-**Step 3:** Launch your BrightID application and click 'Scan a Code'
-
-![](<.gitbook/assets/Link app.png>)
-
-**Step 4:** Scan the barcode on your screen.
-
-**Step 5:** Confirm the connection on your BrightID application.
-
-![](<.gitbook/assets/WhatsApp Image 2020-11-05 at 17.31.18 (1) (1).jpeg>)
-
-**Step 6:** Wait for the chosen application to be linked to your BrightID in seconds.&#x20;
-
-![](<.gitbook/assets/WhatsApp Image 2020-11-05 at 17.31.18 (4).jpeg>)
-
-🎊  Congratulations! Now your BrightID is linked to the application. It's time to enjoy the perks given by the applications for your verified account.
-
-![](<.gitbook/assets/WhatsApp Image 2020-11-10 at 16.49.59.jpeg>)
+You need to have your BrightID sponsored once by at least one app for it to be functional across all apps. So most apps, if it is the first app you connect with your BrightID, will also sponsor you.

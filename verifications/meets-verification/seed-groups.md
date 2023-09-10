@@ -27,7 +27,7 @@ All BrightID hosts conducting connection parties and helping members of the publ
 ![How to create group](<../../.gitbook/assets/Creating Group\_P1.png>)
 
 {% hint style="info" %}
-Disambiguation: Please take careful note that Seed group groups are different and independent from _**Connection Type: Group code**_ found in Home screen -> My Code -> Connection Type toggle. That group code is only to facilitate making several connections at once rather than doing it individually multiple times. This independent feature however, is used by hosts to make connections with multiple members of the public at connection parties.
+Disambiguation: Please take careful note that Seed group groups are different and independent from _**Connection Type: Group code**_ found in Home screen -> My Code -> Connection Type toggle. That group code is only to facilitate making several connections at once rather than doing it individually multiple times. This independent feature however, is used by hosts to make connections with multiple members of the public at connection parties. More about this in process [**here**](../making-connections/making-connections.md#making-group-connections).
 {% endhint %}
 
 ### How to turn your group into a seed group?

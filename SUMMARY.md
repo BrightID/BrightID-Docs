@@ -11,8 +11,9 @@
     * [🌱 Seed Groups](verifications/meets-verification/seed-groups.md)
   * [🔃 Bitu Verification](verifications/bitu-verification.md)
   * [🌀 Aura Verifications (under construction)](https://brightid.gitbook.io/aura/intro/readme)
-  * [🤝 Making Connections](verifications/making-connections/README.md)
-    * [✅ Connection Levels](verifications/making-connections/connection-levels.md)
+  * [👥 Making Connections](verifications/making-connections/README.md)
+    * [🤝 Connection process](verifications/making-connections/making-connections.md)
+    * [🫂 Connection Levels](verifications/making-connections/connection-levels.md)
 * [✅ Connect to Apps](linking-brightid-to-applications.md)
 * [❓ FAQ](frequently-asked-questions.md)
 

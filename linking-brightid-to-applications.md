@@ -8,9 +8,9 @@ description: Enjoy fair and baseline rights of access to web3 properties
 
 Web3 is often described as the internet of value flow compared to the internet up till now being the internet of information flow. Web3 properties on the internet, more often than not have some form of tokenized and tangible value to guard against unfair access.\
 \
-That is where BrightID's value lies. There is much more at stake in web3, and BrightID helps these properties accessible to all internet citizens as Apps, guard against unfair access.\
+That is where BrightID's value lies. There is much more at stake in web3, and BrightID helps these properties, accessible as applications to all internet citizens worldwide, guard themselves against unfair access.\
 \
-Just as much as the members of the public, the internet citizens, need to have fair access to web3 properties like quadratic funding projects such as Gitcoin and CLR.fund; Universal dividends disbursal projects like Unitap; And UBI projects like Manna; These projects also need to ensure that the public is accessing the goods and service they make available, fairly. They need to ensure that the value they make available is not abused and undermined using multiple accounts. Else, they would not function well or sustain.
+Just as much as the members of the worldwide public, the internet citizens, need to have fair access to web3 properties like quadratic funding projects such as Gitcoin and CLR.fund; Universal dividends disbursal projects like Unitap; And UBI projects like Manna; These projects also need to ensure that the public is accessing the goods and service they make available, fairly. They need to ensure that the value they make available is not abused and undermined using multiple accounts. Else, they would not function well or sustain.
 
 ### Connecting
 

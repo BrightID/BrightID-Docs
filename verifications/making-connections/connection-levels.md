@@ -10,7 +10,7 @@ Having established that, there are 3 levels of connections in BrightID.
 
 ### Already know
 
-Make connections only with people you know well enough to trust them. This might include family, friends, Workplace colleagues, or people you have shared interests or goals with within different communities and organizations(IRL or virtual) you are a part of.
+Make connections only with people you know well enough to trust them. This might include family, friends, workplace colleagues, or people you have shared interests or goals with within different communities and organizations(IRL or virtual) you are a part of. If the Internet is big part of your life, it is likely you are a part of a close-knit community online if not more than one. Close connections there are also acceptable. It depends upon the level of kinship you feel with each other.
 
 ### Just met
 

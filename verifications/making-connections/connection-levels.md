@@ -1,19 +1,27 @@
 ---
-description: Making the right choice
+description: Curating your close relationships
 ---
 
-# ✅ Connection Levels
+# 🫂 Connection Levels
 
-The connections you receive on BrightID can be from different types of people. They might be from people you already know, or others you have just met. There might also be connections from suspicious people.&#x20;
+The rule of thumb to follow as already described in the [Guidelines](./#guidelines) is simply not to make connection with random strangers that do not really know or care about you, or you them. Do not consent to such connection requests. BrightID as social identity network is not like other social networks where you follow anybody or anybody can follow you without mutual consent. In BrightID, always curate your connections carefully. As described in the guidelines, these mutual connections are stored anonymously in the social graph forever and there are risks to making untrusted connections. If you have not read the [Guidelines](./#guidelines), please read them again.
 
-![](<../../.gitbook/assets/Connection Levels\_P1.png>)
+Having established that, there are 3 levels of connections in BrightID.
 
-If you have had mutual interactions in the real world and/or on the internet, select them as an “already known” connection. And If you get to know someone just for using BrightID and/or its integrated applications, choose “just met”. Connections from people other than those described above are considered “suspicious” and you will have the chance to report or ignore them later.
+### Already know
 
-Selecting the correct connection level is critical when you make a connection to each person. Your selections help algorithms detect fake accounts with a higher chance of success. Many verification algorithms rely on your connections to people you already know more than those that are to strangers you have just met.&#x20;
+Make connections only with people you know well enough to trust them. This might include family, friends, Workplace colleagues, or people you have shared interests or goals with within different communities and organizations(IRL or virtual) you are a part of.
 
-Making connections to your family and friends helps you get verified easier than other connection levels, but never select already known for people you don’t know or have just met because that might compromise your verification process.
+### Just met
 
-![](<../../.gitbook/assets/Connection Levels\_P5 (2).png>)
+Sometimes there are people you just met and would like for them to get to know you as you get to know them. They could turn into a close trusted connection, a friendship, as you do things together over a considerable period of time, or they may remain strangers or someone you do not trust. Use this connection level carefully. This can happen in various web3 communities, where you are limited by their digital presence, which is lower bandwidth presence than relationships in the physical world.
 
-Some algorithms might take it as a bad signal if your already known connections consider you as someone they have just met or a suspicious connection. Your already known connections’ bad behaviour might also negatively impact your verification.\
+### Suspicious
+
+Sometimes we are wrong about people we just met. The initial spark of connection you felt, dies, and you may find yourself wishing you never consented to make the connection. In this case, change the connection level below "Just met" and set it to "Suspicious".
+
+{% hint style="info" %}
+You can also remove connections you do not want to see in your connections screen. However the anonymous connection between you and the person remains forever in the BrightID social graph.
+{% endhint %}
+
+So, it is critical that you curate your relationships with utmost honesty and care. Your curation and labeling helps verification protocols clean up duplicate account and strengthen the social identity network of unique digital citizens. Sophisticated and higher lever verification protocols rely on the connection level you set. It helps to keep out agents that try to ruin and deplete the value of web3 public properties by unfairly using multiple accounts to access them.\

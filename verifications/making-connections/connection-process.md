@@ -22,4 +22,4 @@ To make a group connection, remember to change the “single-use” QR to a “g
 
 Connections can also be initiated as links using the “copy link” button. Each QR code or link is valid for 15 minutes.
 
-What matters the most in making connections is selecting the right connection levels described in the next section.
+What matters the most is selecting the right connection levels described in the next section.

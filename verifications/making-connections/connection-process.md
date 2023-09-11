@@ -2,7 +2,7 @@
 
 ### Making one-to-one connection
 
-Use the buttons on the bottom of the home screen to start making connections. One person shows a QR code for the other one to scan. The corresponding profile data will then be exchanged through a secure p2p channel. They will then select the level of connections based on how much they know each other. It might be “already known”, “just met”, or “suspicious”. "Already known" being the desirable one for the verification protocols and security mechanism in BrightID.
+Use the buttons on the bottom of the home screen to start making connections. One person shows a QR code for the other one to scan. The corresponding profile data will then be exchanged through a secure p2p channel. They will then select the level of connections based on how much they know each other. It might be “already known”, “just met”, or “suspicious”. "Already known" being the desirable one for the verification protocols and security mechanism in BrightID. More on [connection levels](connection-levels.md) in the next section.
 
 <div align="center" data-full-width="false">
 

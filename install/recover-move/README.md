@@ -9,7 +9,7 @@ _The password you set on your profile screen is NOT your recovery. Do NOT rely o
 
 You cannot recover if you do not set it up first.
 
-So, please set it up as soon as you can, especially if you have already received a verification or tried to connect with an app.
+So, please set it up as soon as you can, especially if you have already received a verification or tried to connect to an app.
 {% endhint %}
 
 ### One or both of the following two procedures can be used to setup and recover, or move your BrightID to a new phone.

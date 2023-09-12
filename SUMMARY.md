@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🔆 BrightID](README.md)
-* [↘ Install & Get Oriented](install/README.md)
+* [↘ Install & be Oriented](install/README.md)
   * [🔁 Update/Upgrade](install/update-upgrade.md)
   * [🔐 Recover/Move](install/recover-move/README.md)
     * [👯 Social Recovery](install/recover-move/social-recovery/README.md)

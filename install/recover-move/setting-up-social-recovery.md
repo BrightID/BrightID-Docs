@@ -31,7 +31,9 @@ Social recovery is a process where you can recover your BrightID with consent fr
 
 ## 🔐 Setting up social recovery
 
-Before you start, [connect](../../verifications/making-connections/) to at least three people know, care, and trust you personally. Have them [install](../) it if needed. As mentioned in the note above, they do not necessarily have to receive any verifications if they do not plan to participate in web3 in the near future.
+Before you start, [connect to at least three people](../../verifications/making-connections/) that know, care, and trust you personally, just as well as you know them. Have them [install BrightID](../) if needed.
+
+* As mentioned in the note above, they do not necessarily have to receive any verifications if they do not want to right now.
 
 For recovery, two types of information is secured, the first being the most essential, and second optional.
 

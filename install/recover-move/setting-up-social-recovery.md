@@ -44,7 +44,7 @@ For recovery, two types of information is secured, the first being the most esse
 
 **Step 1.** Go to Menu on your BrightID app's home screen.&#x20;
 
-![](<../../.gitbook/assets/Social Recovery\_S1.png>)
+![](<../../.gitbook/assets/Social Recovery\_S1 (1).png>)
 
 **Step 2.** Select Recovery Connections.
 
@@ -58,7 +58,7 @@ If you are new to BrightID, and since Social Recovery is so important, you will 
 Again, recovery connections are meant to help you recover your BrightID. Be careful whom you choose because they can take over your BrightID if two of them decide to cooperate against you.
 {% endhint %}
 
-![](<../../.gitbook/assets/Social Recovery\_S3.png>)
+![](<../../.gitbook/assets/Social Recovery\_S3 (1).png>)
 
 The app will show you the list of eligible people for your recovery connection.&#x20;
 

@@ -20,7 +20,7 @@ So, please set it up as soon as you can, especially if you have already received
     * It does not cost an extra phone (unlike device recovery).
     * You can recover or move to new phone even if your old phone became unusable, got lost, or stolen. Unlike device recovery, no need to have old phone with BrightID around when recovering to new one.
 
-    #### To set it up follow -> [Social Recovery](setting-up-social-recovery.md)
+    #### To set it up follow -> [Social Recovery](setting-up-social-recovery/)
 2.  Device Recovery is great way to move or import your BrightID to a new phone while you still have the old phone with functioning BrightID without the need for any recovery connections.
 
     * It is also a great way to keep backup of your BrightID if you own multiple phones.

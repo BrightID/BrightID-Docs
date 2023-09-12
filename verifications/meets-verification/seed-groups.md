@@ -14,13 +14,10 @@ All BrightID hosts conducting connection parties and helping members of the publ
 
 ### How to create a group?
 
-**Step 1.** Open the side menu on your home screen and select 'Groups.'
-
-**Step 2.** Select the 'Create Group' button.
-
-**Step 3.** Add group photo and name.
-
-**Step 4.** Select the group members from your connection list and select the 'Create Group' button to finalize the process.
+1. Open the side menu on your home screen and select 'Groups.'
+2. Select the 'Create Group' button.
+3. Add group photo and name.
+4. Select the group members from your connection list and select the 'Create Group' button to finalize the process.
 
 🎉  you got your group added to the graph.
 

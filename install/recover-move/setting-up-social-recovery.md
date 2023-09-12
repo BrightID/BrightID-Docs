@@ -70,7 +70,7 @@ The eligibility criteria for someone to be your recovery connection is that the 
 
 **Step 4.** Click the 'Add' button to confirm your selection.
 
-![](<../../.gitbook/assets/Social Recovery\_S4.png>)
+![](<../../.gitbook/assets/Social Recovery\_S4 (1).png>)
 
 ### 2) Securing Profile data
 
@@ -88,7 +88,7 @@ Watching out for new update announcements and keeping your and your connection's
 Use the [Update/Upgrade](../update-upgrade.md) guide for important details on how to be up-to-date.
 {% endhint %}
 
-**Step 1.** Install the BrightId app on your mobile phone. Select the “Recover” button on the screen when you first open the freshly installed BrightID app.
+**Step 1.** Install the BrightId app on your new mobile phone. Select the “Recover” button on the screen when you first open the freshly installed BrightID app.
 
 <figure><img src="../../.gitbook/assets/Recovery w SR_S1.png" alt=""><figcaption></figcaption></figure>
 
@@ -96,9 +96,9 @@ Use the [Update/Upgrade](../update-upgrade.md) guide for important details on ho
 
 <figure><img src="../../.gitbook/assets/Recovery w SR_S2 (2).png" alt=""><figcaption></figcaption></figure>
 
-**Step 3.** On your recovery friend side, after they scan your QR code or they clicked the link you shared, your friends will see a list of users. They must carefully identify you and correctly select your BrightID as the BrightID they are helping to recover.
+**Step 3.** On your recovery friend side, after they scan your QR code or they clicked the link you shared, your friend will see a a filtered list of BrightIDs from your connection list. They must carefully identify you and correctly select your BrightID as the BrightID they are helping to recover.
 
-<figure><img src="../../.gitbook/assets/Recovery w SR_S3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recovery w SR_S3 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You will be notified every time one of them scans the code or uses the link.&#x20;
@@ -108,7 +108,7 @@ You will be notified every time one of them scans the code or uses the link.&#x2
 
 **Step 4.** Once two of your recovery connections finish **Step 3**, the app will start downloading your data from your recovery connections. A green check mark will indicate that the downloading process is done.
 
-<figure><img src="../../.gitbook/assets/Recovery w SR_S4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recovery w SR_S4 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5.** Enter your password to restore the profile data.
 
@@ -116,7 +116,7 @@ You will be notified every time one of them scans the code or uses the link.&#x2
 Recovery is much smoother if you **remember the password,** but if you do not remember it, you may skip it. As mentioned earlier, it is less essential than recovering your private key for your recovered BrightID to be functional.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Recovery w SR_S5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recovery w SR_S5 (1).png" alt=""><figcaption></figcaption></figure>
 
 Once all steps are done, you will be taken to your BrightID home screen. Congratulations! 🎊
 

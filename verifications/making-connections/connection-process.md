@@ -18,7 +18,11 @@ If a close-knit group of people want to make connections at the same time, it is
 
 To make a group connection, remember to change the “single-use” QR to a “group code” with the button on top. You will get notified each time someone scans the code. This code can be scanned by up to 30 people.
 
-![Share your QR code as a link with your friends](<../../.gitbook/assets/Making connection\_P4 (4).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/Making connection_P4 (4).png" alt="Share your QR code as a link with your friends" width="375">
+
+</div>
 
 Connections can also be initiated as links using the “copy link” button. Each QR code or link is valid for 15 minutes.
 

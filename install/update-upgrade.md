@@ -14,7 +14,7 @@ description: How to update BrightID mobile app to the latest version?
 
 
 
-    <div align="center">
+    <div align="left">
 
     <figure><img src="../.gitbook/assets/IMG_B62DF5773B6D-1 (1).jpeg" alt="" width="375"><figcaption><p>The BrightID version we are concerned with</p></figcaption></figure>
 

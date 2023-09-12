@@ -2,7 +2,7 @@
 description: Install, setup profile, and get to know the app
 ---
 
-# ↘ Install & Get Oriented
+# ↘ Install & be Oriented
 
 ### Install
 
@@ -19,7 +19,11 @@ Unlike other identity verification systems, BrightID does not require or record 
 \
 All you need is to provide a picture and a name of your choice, only to facilitate making connections so that people that know you do not get confused. You can even change them at any time as long as your connections recognize you. They are not even recorded in BrightID's network infrastructure. They are only recorded on your and your close connection's devices and nowhere else on the internet for the sake of privacy. You share them securely via a p2p channel when you make connections with your friends and that's it. That means you are as private as the close connections you make and trust. There are simply no leakage of your personally identifying information from the infrastructure side as there are none of it there. The project takes privacy very seriously.
 
-![](<../.gitbook/assets/Getting Started\_P3 (3).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/Getting Started_P3 (3).png" alt="" width="375">
+
+</div>
 
 ### Get Oriented
 

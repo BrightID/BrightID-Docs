@@ -16,11 +16,19 @@ Use the [Update/Upgrade](../../update-upgrade.md) guide for important details on
 
 **Step 1.** Install the BrightId app on your new mobile phone. Select the “Recover” button on the screen when you first open the freshly installed BrightID app.
 
-<figure><img src="../../../.gitbook/assets/Recovery w SR_S1.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/Recovery w SR_S1.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 **Step 2.** The app will show a QR code. Share the QR code to two of your recovery connections or Select 'Copy' to copy the link to share with them.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Recovery w SR_S2 (2).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/Recovery w SR_S2.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 **Step 3.** On your recovery friend side, after they scan your QR code or they clicked the link you shared, your friend will see a a filtered list of BrightIDs from your connection list. They must carefully identify you and correctly select your BrightID as the BrightID they are helping to recover.
 
@@ -30,7 +38,11 @@ Use the [Update/Upgrade](../../update-upgrade.md) guide for important details on
 You will be notified every time one of them scans the code or uses the link.&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Recovery w SR_S3_i (1).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/Recovery w SR_S3_i.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 **Step 4.** Once two of your recovery connections finish **Step 3**, the app will start downloading your data from your recovery connections. A green check mark will indicate that the downloading process is done.
 
@@ -46,7 +58,11 @@ Recovery is much smoother if you **remember the password,** but if you do not re
 
 Once all steps are done, you will be taken to your BrightID home screen. Congratulations! 🎊
 
-<figure><img src="../../../.gitbook/assets/Recovery w SR_S6.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/Recovery w SR_S6.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 When you recover, BrightID in your old phone becomes invalidated and useless if you or someone still has it. If you have the old phone, it is safe to uninstall BrightID from it.

@@ -20,7 +20,11 @@ Use the [Update/Upgrade](../update-upgrade.md) guide for important details on ho
 
 **Step 1.** Install the BrightID app on your new phone. After successfully installing, open the BrightID app and select the "Device Recovery" option - previously the button was labeled as "Import".
 
-![](../../.gitbook/assets/AddingDevice\_Step1.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/AddingDevice_Step1.png" alt="Select &#x22;Device Recovery&#x22; option" width="375">
+
+</div>
 
 **Step 2.** After the QR Code appears on the new phone, launch BrightID on your old phone. Select 'Scan a code' on your old phone.
 
@@ -38,15 +42,27 @@ If you just want to move your BrightID to the new phone, select the **"set as pr
 
 **Step 5.** The app on your old phone will start adding your new phone and upload your data to the new phone. The process will take about 15-30 seconds.
 
-![](../../.gitbook/assets/AddingDevice\_Step5.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/AddingDevice_Step5.png" alt="" width="375">
+
+</div>
 
 **Step 6.** Once the process is done, your old phone will open the 'Devices' page and show the new phone successfully added to the list of devices.
 
-![](<../../.gitbook/assets/AddingDevice\_Step6 (1).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/AddingDevice_Step6.png" alt="" width="375">
+
+</div>
 
 **Step 7.** Have a look at your new phone. Wait for the app on your new phone to download your BrightID data. Once the process is finished, the app will open the home screen and you are done.
 
-![](../../.gitbook/assets/AddingDevice\_Step7.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/AddingDevice_Step7.png" alt="" width="375">
+
+</div>
 
 {% hint style="danger" %}
 We suggest you double-check the **verification badge, number of connections, achievements,** and **apps linked** on your new phone. If you find some data <mark style="color:red;">**fails**</mark> to be transferred correctly from one device to another, please report it to us. It will help us notify the bugs on this new feature and solve it.\

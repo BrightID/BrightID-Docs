@@ -29,5 +29,5 @@ Social recovery is a process where you can recover your BrightID with consent fr
 * As you will see below, only two recovery connections are actually needed to be present for the actual recovery process in the event when you need to recover.
 {% endhint %}
 
-## Next section details social recovery setup
+## [Next section details social recovery setup](set-it-up/)
 

@@ -49,4 +49,4 @@ The eligibility criteria for someone to be your recovery connection is that the 
 
 Set up a password to encrypt and back up profile data consisting of your name and photo and the _names_ and _photos_ of your connections. You can view or change this password from your profile screen, accessible from the Menu. Even though it is less essential than securing the private key, take measures to secure it; Write it down and keep it safe so you can remember it when needed.
 
-## Next section details how to update recovery connections
+## [Next section details how to update recovery connections](update-recovery-connections.md)

@@ -33,5 +33,5 @@ As mentioned before, BrightID on the stolen or old mobile phone automatically be
 4. Change that connection level from "🔐 **Recovery"** to "😎 **Already Known"** or any other connection level. See more info about connection levels [here](../../../../verifications/making-connections/connection-levels.md).
 5. Click the 'Save' button to confirm the change you made.
 
-## Next section details how to actually recover
+## [Next section details how to actually recover](../recover.md)
 

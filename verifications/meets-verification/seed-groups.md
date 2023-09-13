@@ -2,13 +2,13 @@
 description: Community integration
 ---
 
-# 🌱 Seed Groups
+# Seed Groups
 
 To try to scale Meets verification, there has always been a simple but permissioned mechanism for there to be hosts embedded in various communities besides BrightID's own community.
 
-Besides the naturally occurring social groups like family, friends, local communities, work acquaintances, web3 communities that a member of the public belongs to are also social environment where close relationships can happen. The group feature in BrightID is supposed to represent core members of trusted communities bound by common interest, goals, and purposes and applying BrightID in their community.
+Besides the naturally occurring social groups like family, friends, local communities, work acquaintances, web3 communities that a member of the public belongs to are also social environment where close relationships can happen. The group feature in BrightID is supposed to represent core members of trusted communities bound by common interest, goals, and purposes.
 
-The Group feature gives core members of web3 communities adopting BrightID, the ability to be trusted agents to verify other members of the public in their public spaces. In other words, they receive the **"Seed"** Verification just like the hosts in BrightID project community. However, this ability is permissioned and only given to a given community's group, if the group has been trusted, oriented, trained, and approved as BrightID Seed Group by the SeedDAO. SeedDAO members consists of BrightID project initiators and experienced hosts. They are the custodians of this mechanism to ensure the community groups are responsible in the use of the power to help the public receive Meets verification.\
+The feature gives core members of web3 communities, the ability to be trusted agents to verify other members of the public in their public spaces. In other words, they receive the **"Seed"** Verification just like the hosts in BrightID project community. However, this ability is permissioned and only given if the group has been trusted, oriented, trained, and approved as BrightID Seed Group by the SeedDAO. SeedDAO members consists of BrightID project initiators and experienced hosts. They are the custodians of this mechanism to ensure the community groups are responsible in the use of the power to help the public receive Meets verification.\
 \
 All BrightID hosts conducting connection parties and helping members of the public receive the "Meets" verification are "Seed" status holders and belong to BrightID community's seed groups.
 
@@ -19,8 +19,6 @@ All BrightID hosts conducting connection parties and helping members of the publ
 3. Add group photo and name.
 4. Select the group members from your connection list and select the 'Create Group' button to finalize the process.
 
-🎉  you got your group added to the graph.
-
 ![How to create group](<../../.gitbook/assets/Creating Group\_P1.png>)
 
 {% hint style="info" %}
@@ -29,28 +27,28 @@ Disambiguation: Please take careful note that Seed group groups are different an
 
 ### How to turn your group into a seed group?
 
-After creating your group, you can apply for the Seed Group Nomination by filling out this form [**BrightID Seed Group Nomination Form**](https://docs.google.com/forms/d/e/1FAIpQLSd5ma8NIyNmOFfgYGOYXC0rQITWSQgLepe1xzIy5dDy5sNXRA/viewform).
+After creating your group, you can apply for the Seed Group Nomination by filling out the [**Seed Group Nomination Form**](https://docs.google.com/forms/d/e/1FAIpQLSd5ma8NIyNmOFfgYGOYXC0rQITWSQgLepe1xzIy5dDy5sNXRA/viewform).
 
-SeedDAO members will assess the application and will contact you for further assessment. After SeedDAO approves the community group:
+SeedDAO members will then assess the application and contact you for further assessments. After SeedDAO approves the community group:
 
-* The members of the group receives "Seed" status. It shows up as "Seed" verification badge in their BrightID app under their profile name.
-* Any group member, with their "Seed" badge, can make connections with members of the public for the public to receive the 'Meets' verification.
+* The members of the group receives "Seed" status. It shows up as badge labeled "Seed" in their BrightID app under their profile name.
+* Any group member with "Seed" badge, can now make "[Just Met](../making-connections/connection-levels.md#just-met)" connections with members of the public for the public to receive the [Meets verification](./).
 
 {% hint style="info" %}
 To receive verification, people do not actually need to join the seed group; they only have to make at least a "Just met" connect to a group member, at an event like BrightID connection parties hosted by the members of the community's seed group.\
 \
-Some more details of the Seed group mechanisms:
+Some more important details and responsibilities of the Seed status:
 
-* when a Seed status holder "report"s someone, the BrightID holder loses the meet verification, unless 4 other seed status holders connect to to the holder as just met.
-* being "reported" by a seed status holder has 3 negative score and having connection with seed status holder has 1 positive score
+* when a Seed status holder "report"s someone, the BrightID holder loses the meet verification, unless 4 other seed status holders connect to the holder as just met.
+* being "reported" by a seed status holder has 3 negative score and having connection with a seed status holder has 1 positive score
 * BrightID holder's score should be greater than zero for them to receive the Meets verification
-* flagging a holder as "suspicious" has no negative score, and if the seed status holder intends to prevent someone from issuing the Meets verification even though they made a connection, the seed status holder should "report" instead
+* flagging a holder as "suspicious" has no negative score, and if the seed status holder intends to prevent the issuance of the Meets verification by the protocol even though they already made a connection, the seed status holder should "report" that connection instead.
 * Reporting is done by "Remove this connection" button in "Connections" > "Connection details" (profile) screen
 
 This is useful in scenarios
 
-* when somebody loses their BrightID without having setup recovery, they need to report details of their old BrightID to seed status holder so it can be invalidated before them receiving a new one
-* somebody attends multiple meeting with different hosts with intention to create multiple BrightIDs, so all their BrightIDs(but one) need to be invalidated
+* When somebody loses their BrightID without having setup recovery, they need to report details of their old BrightID to seed status holder so it can be invalidated before them receiving a new one
+* Somebody attends multiple meeting with different hosts with intention to create multiple BrightIDs, so all their BrightIDs(but one) need to be invalidated
 {% endhint %}
 
 {% hint style="success" %}

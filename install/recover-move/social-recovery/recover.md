@@ -2,7 +2,7 @@
 description: Using Social Recovery to recover your BrightID
 ---
 
-# 🔄 Recover
+# Recover
 
 {% hint style="danger" %}
 Make sure your recovery connections have the same version of BrightID as your newly installed one. Have them [upgrade to the latest version](../../update-upgrade.md) before proceeding further.\
@@ -11,7 +11,7 @@ If, for some reason, after updating their BrightID, your recovery connections ge
 \
 Watching out for new update announcements and keeping your and your connection's BrightID updated is a good practice to ensure your recovery goes smoothly. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements.\
 \
-Use the [Update/Upgrade](../../update-upgrade.md) guide for important details on how to be up-to-date.
+Use the [Update/Upgrade](../../update-upgrade.md) guide for important details on how to keep your BrightID be up-to-date.
 {% endhint %}
 
 **Step 1.** Install the BrightId app on your new mobile phone. Select the “Recover” button on the screen when you first open the freshly installed BrightID app.
@@ -22,7 +22,7 @@ Use the [Update/Upgrade](../../update-upgrade.md) guide for important details on
 
 </div>
 
-**Step 2.** The app will show a QR code. Share the QR code to two of your recovery connections or Select 'Copy' to copy the link to share with them.&#x20;
+**Step 2.** The app will present a QR code and a link. Share the QR code to two of your recovery connections or Select 'Copy' to copy the link to share with them.&#x20;
 
 <div align="left">
 
@@ -30,7 +30,7 @@ Use the [Update/Upgrade](../../update-upgrade.md) guide for important details on
 
 </div>
 
-**Step 3.** On your recovery friend side, after they scan your QR code or they clicked the link you shared, your friend will see a a filtered list of BrightIDs from your connection list. They must carefully identify you and correctly select your BrightID as the BrightID they are helping to recover.
+**Step 3.** On your recovery friend side, after they scan your QR code or after they clicked the link you shared, your friend will see a filtered list of BrightIDs from your connection list. They must carefully identify you and correctly select your BrightID as the BrightID they are helping to recover.
 
 <figure><img src="../../../.gitbook/assets/Recovery w SR_S3 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -51,12 +51,12 @@ You will be notified every time one of them scans the code or uses the link.&#x2
 **Step 5.** Enter your password to restore the profile data.
 
 {% hint style="info" %}
-Recovery is much smoother if you **remember the password,** but if you do not remember it, you may skip it. As mentioned earlier, it is less essential than recovering your private key for your recovered BrightID to be functional.
+Recovery is much smoother if you **remember the password,** but if you do not remember it, you may skip it. As mentioned earlier, it is not as essential as recovering your private key for your recovered BrightID to be functional.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/Recovery w SR_S5 (1).png" alt=""><figcaption></figcaption></figure>
 
-Once all steps are done, you will be taken to your BrightID home screen. Congratulations! 🎊
+Once all steps are done, you will be taken to your BrightID home screen. Congratulations!
 
 <div align="left">
 
@@ -65,6 +65,6 @@ Once all steps are done, you will be taken to your BrightID home screen. Congrat
 </div>
 
 {% hint style="info" %}
-When you recover, BrightID in your old phone becomes invalidated and useless if you or someone still has it. If you have the old phone, it is safe to uninstall BrightID from it.
+When you recover, BrightID in your old phone becomes invalidated and useless if you or someone still has it. If you still have the old phone, it is safe to uninstall BrightID from it.
 {% endhint %}
 

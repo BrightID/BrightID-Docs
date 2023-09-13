@@ -29,7 +29,7 @@ As will be mentioned again in [the recovery process](../recover.md) in the next 
 2. Select "_Recovery Connections_".
 3. Select "_Add more recovery connections_" link at the bottom.
 4. Choose the additional recovery connection from the eligible connection list.
-   * Only people you have [made connection](../../../../verifications/making-connections/) as "[Already Know](../../../../verifications/making-connections/connection-levels.md#already-know)" are filtered in this list and shown to be suitable for recovery connection. Connections below this level do not show up there.
+   * Only people you have [made connection](../../../../verifications/making-connections/) _mutually_ as "[Already Know](../../../../verifications/making-connections/connection-levels.md#already-know)" are filtered in this list and shown to be suitable for recovery connection. Connections below this level do not show up there.
 5. Click the "_Add_" button to confirm your selection.
 
 ### Remove or downgrade your existing recovery connection

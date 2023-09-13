@@ -12,7 +12,7 @@ To try to scale Meets verification, there has always been a simple but permissio
 
 The group feature in BrightID represents core members of trusted communities around a niche project bound by common interest, goals, and purposes.
 
-The feature gives core members of web3 communities the ability to be trusted agents to verify other members of the public in their public spaces. In other words, they receive the **"Seed"** Verification just like the hosts in BrightID project community. However, this ability is permissioned and only given if the group has been trusted, oriented, trained, and approved as BrightID Seed Group by the SeedDAO. SeedDAO members consists of BrightID project initiators and experienced hosts. They are the custodians of this mechanism to ensure the community groups are responsible in the use of the power to help the public receive Meets verification.\
+The feature gives core members of trusted web3 communities the ability to be trusted agents to verify other members of the public participating in their project's goods and services. In other words, they receive the **"Seed"** Verification just like the hosts in BrightID project community. However, this ability is permissioned and only given if the group has been trusted, oriented, trained, and approved as BrightID Seed Group by the SeedDAO. SeedDAO members consists of BrightID project initiators and experienced hosts. They are the custodians of this mechanism to ensure the community groups are responsible in the use of the power to help the public receive Meets verification.\
 \
 All BrightID hosts conducting connection parties have "Seed" status in exactly the same way and belong to BrightID community's seed groups.
 

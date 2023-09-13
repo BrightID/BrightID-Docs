@@ -25,7 +25,7 @@ Social recovery is a process where you can recover your BrightID with consent fr
 {% hint style="info" %}
 **NOTE:**
 
-* If they do not want to bother with receiving verifications, your recovery connections do not have to have a BrightID verification like the "[Meets](../../../verifications/meets-verification/)" verification; Only installing the app and keeping it updated is necessary. Close family and friends usually care enough and respect you to not mind the responsibility, and they are indeed a popular choice among BrightID holders to rely on them for recovery.
+* If your recovery connections do not want to bother with receiving verifications, your recovery connections do not have to have a BrightID verification like the "[Meets](../../../verifications/meets-verification/)"; Only installing the app and keeping it updated is sufficient and necessary. Close family and friends usually care enough and respect you to not mind the responsibility, and they are indeed a popular choice among BrightID holders to rely on them for recovery.
 * You must select at least three recovery connections to pass [setup](set-it-up/). Ideally, around seven recovery connections can make it really secure. Greater the number of stable recovery level connections, the better.
 * As you will see in [the setup process](set-it-up/) next, only two recovery connections are actually needed to be present for the actual [recovery process](recover.md) at the time when you need to recover.
 {% endhint %}

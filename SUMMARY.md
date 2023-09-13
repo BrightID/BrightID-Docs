@@ -18,7 +18,7 @@
     * [Connection process](verifications/making-connections/connection-process.md)
     * [Connection Levels](verifications/making-connections/connection-levels.md)
 * [Connect to Apps](linking-brightid-to-applications.md)
-* [❓ FAQ](frequently-asked-questions.md)
+* [FAQ](frequently-asked-questions.md)
 
 ## BrightDAO
 

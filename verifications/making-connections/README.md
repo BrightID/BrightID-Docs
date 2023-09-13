@@ -2,9 +2,13 @@
 description: You receive verifications on your BrightID based on your close alliances.
 ---
 
-# 👥 Making Connections
+# Making Connections
 
-Verifications are a reflection of your relationships. If you do not have connections, there is nothing to reflect. So, by adopting BrightID as the public good to help you gain fair access to web3 properties, you are expected to make connections to people that mutually know you. It is also based on the principle that your identity should be attested and secured by people that actually know and care about you rather than some distant and central authority. So, verifications you receive on your BrightID, or your identity, are in your own hands, unlike other identity projects. BrightID only helps reflect your identity in a way that is non-violent, self-sovereign, globally private and in a way web3 properties can use to allow fair and baseline rights of access.
+[All BrightID verifications](../) are a reflection of your relationships. If you do not have connections, there is nothing to reflect. So, by adopting BrightID as the public good to help you prove fair access to web3 properties, you are expected to make connections to people that mutually know you.
+
+It is also based on the principle that your identity should be attested and secured by people that actually know and care about you rather than some distant and central authority.
+
+So, verifications you receive on your BrightID - your identity, are in your own hands. BrightID is only a mirror to help reflect your identity in a way that is non-violent, self-sovereign, globally private, and in a way web3 properties can deterministically check and see whether they are safe to allow you fair and baseline rights of access to their goods and services of value.
 
 ### Guidelines
 

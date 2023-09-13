@@ -33,7 +33,7 @@ As will be mentioned again in [the recovery process](../recover.md) in the next 
 1. Go to "_Menu"_ on your BrightID app's home screen.
 2. Select "_Recovery Connections_".
 3. Select the blue pencil icon next to the recovery connection you want to remove or downgrade.
-4. Change that [connection level](../../../../verifications/making-connections/connection-levels.md) from "**Recovery"** to "**Already Known"** or any other [connection level](../../../../verifications/making-connections/connection-levels.md) depending upon the changes you feel about the person.
+4. Change that [connection level](../../../../verifications/making-connections/connection-levels.md) from "Recovery" to "Already Know" or any other [connection level](../../../../verifications/making-connections/connection-levels.md) depending upon the changes you feel about the person.
 5. Click the "_Save"_ button to confirm the change you made.
 
 ## [Next section details how to actually recover](../recover.md)

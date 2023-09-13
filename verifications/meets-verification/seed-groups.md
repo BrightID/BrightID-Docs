@@ -64,5 +64,5 @@ Reporting is done by using the "_Remove this connection_" button in "_Connection
 
 Reporting is useful in these scenarios:
 
-* When somebody loses their BrightID without having setup recovery, they need to report details of their old BrightID to a "_Seed status_" holder so it can be invalidated before them receiving a new one.
-* Somebody attends multiple meeting with different hosts with intention to create multiple BrightIDs, so all their BrightIDs(but one) need to be invalidated.
+* When somebody loses their BrightID without having [setup recovery](../../install/recover-move/), they need to report details of their old BrightID to a "_Seed status_" holder so it can be invalidated before them receiving a new one.
+* Somebody attends multiple meetings with different hosts with intention to create multiple BrightIDs, so all their BrightIDs(but one) need to be invalidated.

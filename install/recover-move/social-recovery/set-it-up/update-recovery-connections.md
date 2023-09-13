@@ -11,7 +11,7 @@ The way of our social life is such that our close relationships changes from tim
 When relationships do change, in BrightID we can change your recovery connections. By:
 
 1. Adding another connection, Or
-2. Changing the connection level of an existing connection.
+2. Changing the [connection level](../../../../verifications/making-connections/connection-levels.md) of an existing connection.
 
 {% hint style="info" %}
 For your security, changes to recovery connections will take effect only **after seven days.**\

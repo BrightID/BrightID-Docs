@@ -17,7 +17,9 @@ If, for some reason, after updating, BrightID app in your old phone has an error
 
 It is very important for you to keep your BrightID mobile app in all your phones healthy and kept up-to-date. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements. Then keep all of your devices up-to-date and in sync.\
 \
-Use the [Update/Upgrade](../update-upgrade.md) guide for important details on how to update.
+Use the [Update/Upgrade](../update-upgrade.md) guide for important details on how to update.\
+\
+Proceed further if your old device is up-to-date and error free.
 {% endhint %}
 
 ### Moving your BrightID to new phone

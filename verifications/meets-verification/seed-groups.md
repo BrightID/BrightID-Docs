@@ -10,11 +10,13 @@ description: Community integration
   * If your project has a web3 app and you want to integrate BrightID to allow fair access to your app, check out the [builders documentation](https://brightid.stoplight.io/). You may also reach out to BrightID project's community in [our public space in Discord](https://discord.com/servers/brightid-596752664906432522) for integration support.
   * If your web3 project and community also has a public space in discord, consider using [BrightID unique bot for Discord](https://bot.brightid.org) to fortify your public space against bots, scammers and spammers causing havoc in the public space using multiple discord accounts.
 
-To try to scale the Meets verification, there has always been a simple but permissioned mechanism for there to be hosts embedded in various communities besides BrightID's own community.
+To try to scale the [Meets verification](./), there has always been a simple but permissioned mechanism for there to be hosts embedded in various communities besides BrightID's own community.
 
 The group feature in BrightID represents core members of trusted communities around a niche project bound by common interest, goals, and purposes.
 
-The feature gives core members of trusted web3 communities the ability to be trusted agents to verify other members of the public participating in their project's goods and services. In other words, they receive the **"Seed"** Verification just like the hosts in BrightID project community. However, this ability is permissioned and only given if the group has been trusted, oriented, trained, and approved as BrightID Seed Group by the SeedDAO. SeedDAO members consists of BrightID project initiators and experienced hosts. They are the custodians of this mechanism to ensure the community groups are responsible in the use of the power to help the public receive Meets verification.\
+The feature gives core members the ability to be trusted agents to have other members of the public participating in their project's goods and services receive the [Meets verification](./) in their own community rather than sending them to BrightID community. In other words, the core members receives the **"Seed status"** just like the hosts in BrightID project community.\
+\
+However, this ability is permissioned and only given if the group has been trusted, oriented, trained, and approved as BrightID Seed Group by the SeedDAO. SeedDAO members consists of BrightID project initiators and experienced hosts. They are the custodians of this mechanism to ensure the community groups are responsible in the use of the power to help the public receive the Meets verification.\
 \
 All BrightID hosts conducting connection parties have "Seed" status in exactly the same way and belong to BrightID community's seed groups.
 

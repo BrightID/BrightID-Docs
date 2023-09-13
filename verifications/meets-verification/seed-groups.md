@@ -18,7 +18,7 @@ The feature gives core members the ability to be trusted agents to have other me
 \
 However, this ability is permissioned and only given if the group has been trusted, oriented, trained, and approved as BrightID Seed Group by the SeedDAO. SeedDAO members consists of BrightID project initiators and experienced hosts. They are the custodians of this mechanism to ensure the community groups are responsible in the use of the power to help the public receive the Meets verification.\
 \
-All BrightID hosts conducting connection parties have "Seed" status in exactly the same way and belong to BrightID community's seed groups.
+All BrightID hosts conducting connection parties have "Seed" status in exactly the same way and belong to BrightID community's seed groups for select languages.
 
 ### Creating a group
 

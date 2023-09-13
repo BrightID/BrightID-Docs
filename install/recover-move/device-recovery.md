@@ -2,18 +2,22 @@
 description: Move your BrightID to a new phone, or use an extra phone as a backup
 ---
 
-# 📲 Device Recovery
+# Device Recovery
 
 You can move your BrightID from one phone to another as long as you **still have access to the old phone that has your fully functioning BrightID**. This feature also allows the multi-device backup of your BrightID so that if you lose one, you still have your BrightID in another phone.
 
 {% hint style="warning" %}
-Make sure the phone with the fully functioning BrightID(old phone) has the same version of BrightID as your newly installed one in your new phone. Upgrade your old phone to the latest version before proceeding further.\
+Do not proceeding further before reading this alert completely and acting on it.\
 \
-If, for some reason, after updating, BrightID app in your old phone has an error saying signing keys are invalid/incorrect, then you cannot recover. It is very important for you to keep your BrightID mobile app in all your phones healthy and kept up-to-date.\
+Before starting recovery, make sure the phone with the fully functioning BrightID(old phone) has the same version of BrightID as your newly installed one in your new phone.\
 \
-Watching out for new update announcements and keeping your and your connection's BrightID updated is a good practice to ensure your recovery goes smoothly. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements.\
+If, for some reason, after updating, BrightID app in your old phone has an error saying signing keys are invalid/incorrect, then you cannot recover.
+
+
+
+It is very important for you to keep your BrightID mobile app in all your phones healthy and kept up-to-date. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements. Then keep all of your devices up-to-date and in sync.\
 \
-Use the [Update/Upgrade](../update-upgrade.md) guide for important details on how to be up-to-date.
+Use the [Update/Upgrade](../update-upgrade.md) guide for important details on how to update.
 {% endhint %}
 
 ### Moving your BrightID to new phone
@@ -26,7 +30,7 @@ Use the [Update/Upgrade](../update-upgrade.md) guide for important details on ho
 
 </div>
 
-**Step 2.** After the QR Code appears on the new phone, launch BrightID on your old phone. Select 'Scan a code' on your old phone.
+**Step 2.** After the QR Code appears on the new phone, note the following info:
 
 {% hint style="info" %}
 If you just want to move your BrightID to the new phone, select the **"set as primary device"** option above the QR code before you scan the code.
@@ -34,7 +38,7 @@ If you just want to move your BrightID to the new phone, select the **"set as pr
 
 <figure><img src="../../.gitbook/assets/AddingDevice_Step2.png" alt=""><figcaption></figcaption></figure>
 
-**Step 3.** With old phone, scan the QR Code shown on your new phone.
+**Step 3.** launch BrightID on your old phone. Select 'Scan a code' and scan the QR Code shown on your new phone.
 
 **Step 4.** On your old phone, confirm that you want to export your BrightID to new phone. Then add the name of new phone. E.g., "Main"
 
@@ -72,10 +76,10 @@ Assuming you selected "set as primary device" above the QR code on your new phon
 
 ### Manage the list of Devices
 
-To access the information on the list of devices holding your BrightID, you can go to the side menu on your home screen in either phones and select 'Devices.' You can manually re-sync the data from your primary device to your secondary devices on this page. You can also remove the devices you no longer want to have your BrightID in.
+To access the information on the list of devices with a copy of your BrightID, you can go to the side menu on your home screen in either phones and select 'Devices.' You can manually re-sync the data from your primary device to your secondary devices on this screen. You can also remove the devices you no longer want.
 
 {% hint style="danger" %}
 "Sync Devices" from your primary phone from time to time, especially if you change something, like your profile pic, name, connection level of a connection, or you added new connections.\
 \
-While you can still have a functioning BrightID on the phone that is not synced, because the most important part, which is your signing keys are already backed up, and you can always redo the changes manually on your secondary/backup phone, it is best not to have to repeat the changes.
+While you can still have a functioning BrightID on the phone that is not synced, and you can always redo the changes manually on your secondary/backup phone, obviously it is best not to have to repeat the changes.
 {% endhint %}

@@ -36,13 +36,13 @@ All BrightID hosts conducting connection parties have "Seed" status in exactly t
 Please take careful note that Seed group groups are different and independent from _**Connection Type: Group code**_ found in Home screen -> My Code -> Connection Type toggle. That group code is only to facilitate making [several connections](../making-connections/connection-process.md#making-group-connections) at once rather than doing it individually multiple times. This independent feature however, is used by hosts to make connections with multiple members of the public at connection parties.
 {% endhint %}
 
-### How to activate your group into a seed group?
+### Activate your group into a seed group
 
-After creating your group, you can apply for the Seed Group Nomination by filling out the [**Seed Group Nomination Form**](https://docs.google.com/forms/d/e/1FAIpQLSd5ma8NIyNmOFfgYGOYXC0rQITWSQgLepe1xzIy5dDy5sNXRA/viewform).
+After creating your group, you can apply for the Seed Group Nomination by filling out the [**Seed Group Nomination Form**](https://docs.google.com/forms/d/e/1FAIpQLSd5ma8NIyNmOFfgYGOYXC0rQITWSQgLepe1xzIy5dDy5sNXRA/viewform). The SeedDAO members will then assess the application and contact you for further assessments.
 
-The SeedDAO members will then assess the application and contact you for further assessments. After the SeedDAO approves the community group:
+After the SeedDAO approves your community's group:
 
-* The members of the group receives "Seed" status. It shows up as badge labeled "Seed" in their BrightID app under their profile name.
+* The members of the group receives "_Seed status_". It shows up as badge labeled "Seed" in their BrightID app under their profile name.
 * Any group member with "Seed" badge, can now make "[Just Met](../making-connections/connection-levels.md#just-met)" connections with members of the public for the public to receive the [Meets verification](./).
 
 {% hint style="success" %}
@@ -51,18 +51,18 @@ Tips: To smoothen the seed group nomination application process, it is suggested
 
 ### Seed group responsibilities
 
-To receive verification, people outside the group do not need to join the seed group; they only have to make at least a "Just met" connect to a group member who now has the Seed status, at an event like the BrightID connection parties or real life meetups.
+To receive verification, members of the public outside the group do not need to join the seed group. They only have to make at least a "Just met" connection to a group member who now has the "_Seed status_". Such [connection making](../making-connections/) can happen at an event like the BrightID connection parties or real life meetups.
 
 #### Reporting:
 
-Reporting is done by "Remove this connection" button in "Connections" > "Connection details" (profile) screen.
+Reporting is done by using the "_Remove this connection_" button in "_Connections_" > "_Connection details_" which brings up the profile screen of the subject.
 
-* When a Seed status holder "report"s someone, the BrightID holder loses the meet verification, unless 4 other seed status holders connect to the holder as just met.
-* Being "reported" by a seed status holder has 3 negative score and having connection with a seed status holder has 1 positive score
-* BrightID holder's score should be greater than zero for them to receive the Meets verification
-* Flagging a holder as "suspicious" has no negative score, and if the seed status holder intends to prevent the issuance of the Meets verification by the protocol even though they already made a connection, the seed status holder should "report" that connection instead.
+* When a "_Seed status_" holder reports someone in their connections list, the BrightID holder loses the [Meets verification](./), unless 4 other "_Seed status_" holders connect to the holder as just met.
+* Being reported by a "_Seed status_" holder has 3 negative score and having connection with a "_Seed status_" holder has 1 positive score.
+* BrightID holder's score should be greater than zero for them to receive the [Meets verification](./).
+* Flagging a holder as "suspicious" has no negative score, and if the "_Seed status_" holder intends to prevent the issuance of the [Meets verification](./) by the protocol, even though they already made a connection, the "_Seed status_" holder should "report" that connection instead.
 
-This is useful in scenarios
+Reporting is useful in these scenarios:
 
-* When somebody loses their BrightID without having setup recovery, they need to report details of their old BrightID to seed status holder so it can be invalidated before them receiving a new one
-* Somebody attends multiple meeting with different hosts with intention to create multiple BrightIDs, so all their BrightIDs(but one) need to be invalidated
+* When somebody loses their BrightID without having setup recovery, they need to report details of their old BrightID to a "_Seed status_" holder so it can be invalidated before them receiving a new one.
+* Somebody attends multiple meeting with different hosts with intention to create multiple BrightIDs, so all their BrightIDs(but one) need to be invalidated.

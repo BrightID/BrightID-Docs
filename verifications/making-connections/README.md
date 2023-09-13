@@ -8,9 +8,9 @@ description: You receive verifications on your BrightID based on your close alli
 
 It is also based on the principle that your identity should be attested and secured by people that actually know and care about you rather than some distant and central authority.
 
-So, unlike many other identity systems, In BrightID, your digital identity, and its security, is in your own hand in maintaining your trusted relationships.
+So, unlike many other identity systems, In BrightID, your digital identity and its [security](../../install/recover-move/social-recovery/), is in your own hand in maintaining your trusted relationships.
 
-In that way BrightID is only a mirror to help you reflect your identity in a way that is self-sovereign, non-violent, globally private. It reflects it through the [verifications](../) in a way [web3 properties](../../linking-brightid-to-applications.md) can deterministically check and see whether they are safe to allow you access to their goods and services of value. For the baseline rights of fair access, [the apps](../../linking-brightid-to-applications.md) do not need to know anything else about you.
+In that way BrightID is only a mirror to help you reflect your identity in a way that is self-sovereign, non-violent, and globally private. It reflects it through the [verifications](../) in a way [web3 properties](../../linking-brightid-to-applications.md) can deterministically check and see whether they are safe to allow you access to their goods and services. For the baseline rights of fair access, [the apps](../../linking-brightid-to-applications.md) do not need to know anything else about you.
 
 ### Guidelines
 

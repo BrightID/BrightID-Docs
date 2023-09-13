@@ -6,9 +6,9 @@ description: Add or update recovery connections
 
 Making connections in general is described in detail in "[Making Connections](../../../../verifications/making-connections/)" section.
 
-The way of our social life is such that our close relationships changes from time to time. Healthy relationships of interdependence usually lasts longer. It is also the case that only people we trust can betray us. However, not trusting anybody just because of the fear of betrayal is not a healthy way for a social being to live their life. So, it is important to be able to curate and update our trusted connections.\
+Social life is such that our close relationships changes from time to time. Healthy relationships of interdependence usually lasts longer but situations can change as life moves on. It is also the case that the nature of trust is such that only the people we trust can betray us. However, not trusting anybody just because of the fear of betrayal is not a healthy way for a social being to live their life. Considering these, it is important to be able to curate and update our trusted connections.\
 \
-When relationships do change, in BrightID we can change your recovery connections. By:
+When relationships do change, in BrightID we can change our recovery connections. By:
 
 1. Adding another connection, Or
 2. Changing the [connection level](../../../../verifications/making-connections/connection-levels.md) of an existing connection.

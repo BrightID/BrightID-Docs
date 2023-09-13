@@ -44,25 +44,24 @@ The SeedDAO members will then assess the application and contact you for further
 * The members of the group receives "Seed" status. It shows up as badge labeled "Seed" in their BrightID app under their profile name.
 * Any group member with "Seed" badge, can now make "[Just Met](../making-connections/connection-levels.md#just-met)" connections with members of the public for the public to receive the [Meets verification](./).
 
-{% hint style="info" %}
+{% hint style="success" %}
+Tips: To smoothen the seed group nomination application process, it is suggested that you contact BrightID community on the project's public space in [**Discord**](https://discord.com/servers/brightid-596752664906432522) to introduce your community and follow up about the application process.
+{% endhint %}
+
 ### Seed group responsibilities
 
-To receive verification, people do not actually need to join the seed group; they only have to make at least a "Just met" connect to a group member, at an event like BrightID connection parties hosted by the members of the community's seed group.\
-\
-Some more important details and responsibilities of the Seed status:
+To receive verification, people outside the group do not need to join the seed group; they only have to make at least a "Just met" connect to a group member who now has the Seed status, at an event like the BrightID connection parties or real life meetups.
 
-* when a Seed status holder "report"s someone, the BrightID holder loses the meet verification, unless 4 other seed status holders connect to the holder as just met.
-* being "reported" by a seed status holder has 3 negative score and having connection with a seed status holder has 1 positive score
+#### Reporting:
+
+Reporting is done by "Remove this connection" button in "Connections" > "Connection details" (profile) screen.
+
+* When a Seed status holder "report"s someone, the BrightID holder loses the meet verification, unless 4 other seed status holders connect to the holder as just met.
+* Being "reported" by a seed status holder has 3 negative score and having connection with a seed status holder has 1 positive score
 * BrightID holder's score should be greater than zero for them to receive the Meets verification
-* flagging a holder as "suspicious" has no negative score, and if the seed status holder intends to prevent the issuance of the Meets verification by the protocol even though they already made a connection, the seed status holder should "report" that connection instead.
-* Reporting is done by "Remove this connection" button in "Connections" > "Connection details" (profile) screen
+* Flagging a holder as "suspicious" has no negative score, and if the seed status holder intends to prevent the issuance of the Meets verification by the protocol even though they already made a connection, the seed status holder should "report" that connection instead.
 
 This is useful in scenarios
 
 * When somebody loses their BrightID without having setup recovery, they need to report details of their old BrightID to seed status holder so it can be invalidated before them receiving a new one
 * Somebody attends multiple meeting with different hosts with intention to create multiple BrightIDs, so all their BrightIDs(but one) need to be invalidated
-{% endhint %}
-
-{% hint style="success" %}
-Tips: To smoothen the seed group nomination application process, it is suggested that you contact BrightID community on the project's public space in [**Discord**](https://discord.com/servers/brightid-596752664906432522) to introduce your community and follow up about the application process.
-{% endhint %}

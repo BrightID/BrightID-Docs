@@ -4,11 +4,13 @@ description: Community integration
 
 # Seed Groups
 
-#### If you are interested only in receiving Meets verification, skip this section.
+#### If you are only interested only in receiving the [Meets verification](./), skip this section and ignore the Seed Group feature.
 
-* If you are a core part of a community around a web3 project and you are interested in having members of the public participating in your project receive the Meets verification through your own community, read on.
+* If you are a core part of a community around a well known and trusted web3 project and you are interested in having members of the public participating in your project receive the Meets verification through your own community, read on. Worth mentioning here:
+  * If your project has a web3 app and you want to integrate BrightID to allow fair access to your app, check out the [builders documentation](https://brightid.stoplight.io/). You may also reach out to BrightID project's community in [our public space in Discord](https://discord.com/servers/brightid-596752664906432522) for integration support.
+  * If your web3 project and community also has a public space in discord, consider using [BrightID unique bot for Discord](https://bot.brightid.org) to fortify your public space against bots, scammers and spammers.
 
-To try to scale Meets verification, there has always been a simple but permissioned mechanism for there to be hosts embedded in various communities besides BrightID's own community.
+To try to scale the Meets verification, there has always been a simple but permissioned mechanism for there to be hosts embedded in various communities besides BrightID's own community.
 
 The group feature in BrightID represents core members of trusted communities around a niche project bound by common interest, goals, and purposes.
 

@@ -10,7 +10,7 @@ Having established that, there are 4 levels of connections in BrightID.
 
 ### Already know
 
-Make connections only with people you know well enough to trust them. This might include family, friends, workplace colleagues, or people in communities that you care about. Close connections you develop in online communities can also be inter-dependable. It depends upon the level of kinship and trust you feel with each other.
+These are people you know well enough to trust them. This might include family, friends, workplace colleagues, or people in communities that you care about. Close connections you develop in online communities can also be trust worthy and inter-dependable. It depends upon the level of kinship and trust you feel with each other which can only develop as you do things together over a considerable period of time regardless of whether it is in real life or online.
 
 > ### Recovery
 >
@@ -18,7 +18,9 @@ Make connections only with people you know well enough to trust them. This might
 
 ### Just met
 
-Sometimes there are people you just met and would like for them to get to know you as you get to know them. They could turn into a close trusted connection, an inter-dependable friendship, as you do things together over a considerable period of time. Or they could just as well remain strangers, or someone you do not trust. Use this connection level carefully. This can happen in various web3 communities, where you are limited by their digital presence, which is lower bandwidth presence than relationships in the physical world. Still great and strong relationships happen online over long physical distance that would not be possible if it were not for the internet.
+Sometimes there are people you just met in real life or online, and you would like for them to get to know you as you get to know them. They could turn into a close trusted connection, an inter-dependable friendship, as you do things together over a considerable period of time. Or they could just as well remain strangers, or someone you do not trust.
+
+So, use this connection level carefully.
 
 ### Suspicious
 

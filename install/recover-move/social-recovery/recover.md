@@ -14,9 +14,9 @@ Before starting recovery, make sure your recovery connections have the same vers
 * If, for some reason, after updating their BrightID, your recovery connections get an error saying their signing keys are invalid/incorrect, then you cannot recover.
 * It is very important for you and your recovery connections to keep your BrightID mobile app healthy and keep it up-to-date. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements.
 
-#### Ask your recovery connections to use the [Update/Upgrade](../../update-upgrade.md) guide for important details on updating their BrightID.
+#### [Ask your recovery connections to use the Update/Upgrade guide for important details on updating their BrightID.](../../update-upgrade.md)
 
-* Proceed further only if their BrightID is up-to-date and error free.
+* Proceed further only if both of your recovery connection's BrightIDs are up-to-date and error free.
 {% endhint %}
 
 **Step 1.** [Install BrightId](../../) on your new mobile phone. Select the “Recover” button on the screen.

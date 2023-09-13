@@ -5,9 +5,15 @@ description: Your digital identity is priceless! Secure your BrightID now!
 # Recover/Move
 
 {% hint style="danger" %}
-_The password you set on your profile screen is NOT your recovery. Do NOT rely on it. There is also no seed phrase. BrightID is NOT a blockchain wallet. It is your digital identity to privately assert your uniqueness when fairly accessing web3 properties. As such it does not hold anything of monetary value like the way wallets do. Nevertheless, your digital identity is priceless in a different way._
+### The password is NOT Recovery
 
-_**You cannot recover if you do not set it up first.**_
+The password you set on your profile screen is NOT your recovery. Do NOT rely on it.
+
+### BrightID is NOT a blockchain wallet
+
+There is also no seed phrase. BrightID is NOT a blockchain wallet. It is your digital identity to privately assert your uniqueness when fairly accessing web3 properties. As such it does not hold anything of monetary value like the way wallets do. Nevertheless, your digital identity is priceless in a different way.
+
+### You cannot recover if you do not setup recovery first.
 
 So, please set it up as soon as you can, especially if you have already received a verification or tried to connect to an app.
 {% endhint %}

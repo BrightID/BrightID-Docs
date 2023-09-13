@@ -4,15 +4,19 @@ description: Community integration
 
 # Seed Groups
 
+#### If you are interested only in receiving Meets verification, skip this section.
+
+* If you are a core part of a community around a web3 project and you are interested in having members of the public participating in your project receive the Meets verification through your own community, read on.
+
 To try to scale Meets verification, there has always been a simple but permissioned mechanism for there to be hosts embedded in various communities besides BrightID's own community.
 
-Besides the naturally occurring social groups like family, friends, local communities, work acquaintances, web3 communities that a member of the public belongs to are also social environment where close relationships can happen. The group feature in BrightID is supposed to represent core members of trusted communities bound by common interest, goals, and purposes.
+The group feature in BrightID represents core members of trusted communities around a niche project bound by common interest, goals, and purposes.
 
-The feature gives core members of web3 communities, the ability to be trusted agents to verify other members of the public in their public spaces. In other words, they receive the **"Seed"** Verification just like the hosts in BrightID project community. However, this ability is permissioned and only given if the group has been trusted, oriented, trained, and approved as BrightID Seed Group by the SeedDAO. SeedDAO members consists of BrightID project initiators and experienced hosts. They are the custodians of this mechanism to ensure the community groups are responsible in the use of the power to help the public receive Meets verification.\
+The feature gives core members of web3 communities the ability to be trusted agents to verify other members of the public in their public spaces. In other words, they receive the **"Seed"** Verification just like the hosts in BrightID project community. However, this ability is permissioned and only given if the group has been trusted, oriented, trained, and approved as BrightID Seed Group by the SeedDAO. SeedDAO members consists of BrightID project initiators and experienced hosts. They are the custodians of this mechanism to ensure the community groups are responsible in the use of the power to help the public receive Meets verification.\
 \
-All BrightID hosts conducting connection parties and helping members of the public receive the "Meets" verification are "Seed" status holders and belong to BrightID community's seed groups.
+All BrightID hosts conducting connection parties have "Seed" status in exactly the same way and belong to BrightID community's seed groups.
 
-### How to create a group?
+### Creating a group
 
 1. Open the side menu on your home screen and select 'Groups.'
 2. Select the 'Create Group' button.
@@ -25,16 +29,18 @@ All BrightID hosts conducting connection parties and helping members of the publ
 Disambiguation: Please take careful note that Seed group groups are different and independent from _**Connection Type: Group code**_ found in Home screen -> My Code -> Connection Type toggle. That group code is only to facilitate making several connections at once rather than doing it individually multiple times. This independent feature however, is used by hosts to make connections with multiple members of the public at connection parties. More about this in process [**here**](../making-connections/connection-process.md#making-group-connections).
 {% endhint %}
 
-### How to turn your group into a seed group?
+### How to activate your group into a seed group?
 
 After creating your group, you can apply for the Seed Group Nomination by filling out the [**Seed Group Nomination Form**](https://docs.google.com/forms/d/e/1FAIpQLSd5ma8NIyNmOFfgYGOYXC0rQITWSQgLepe1xzIy5dDy5sNXRA/viewform).
 
-SeedDAO members will then assess the application and contact you for further assessments. After SeedDAO approves the community group:
+The SeedDAO members will then assess the application and contact you for further assessments. After the SeedDAO approves the community group:
 
 * The members of the group receives "Seed" status. It shows up as badge labeled "Seed" in their BrightID app under their profile name.
 * Any group member with "Seed" badge, can now make "[Just Met](../making-connections/connection-levels.md#just-met)" connections with members of the public for the public to receive the [Meets verification](./).
 
 {% hint style="info" %}
+### Seed group responsibilities
+
 To receive verification, people do not actually need to join the seed group; they only have to make at least a "Just met" connect to a group member, at an event like BrightID connection parties hosted by the members of the community's seed group.\
 \
 Some more important details and responsibilities of the Seed status:
@@ -52,5 +58,5 @@ This is useful in scenarios
 {% endhint %}
 
 {% hint style="success" %}
-Tips: To smoothen the application process, it is suggested that you contact BrightID community on the project's public space in [**Discord**](https://discord.com/servers/brightid-596752664906432522) to introduce your community and follow up about the application process.
+Tips: To smoothen the seed group nomination application process, it is suggested that you contact BrightID community on the project's public space in [**Discord**](https://discord.com/servers/brightid-596752664906432522) to introduce your community and follow up about the application process.
 {% endhint %}

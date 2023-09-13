@@ -5,6 +5,8 @@ description: Using Social Recovery to recover your BrightID
 # Recover
 
 {% hint style="warning" %}
+### Make sure your recovery connection's BrightID is up-to-date
+
 Do not proceeding further before reading this alert completely and acting on it.\
 \
 Before starting recovery, make sure your recovery connections have the same version of BrightID as your freshly installed one.
@@ -12,9 +14,9 @@ Before starting recovery, make sure your recovery connections have the same vers
 * If, for some reason, after updating their BrightID, your recovery connections get an error saying their signing keys are invalid/incorrect, then you cannot recover.
 * It is very important for you and your recovery connections to keep your BrightID mobile app healthy and keep it up-to-date. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements.
 
-Ask your recovery connections to use the [Update/Upgrade](../../update-upgrade.md) guide for important details on updating their BrightID.\
-\
-Proceed further if their BrightID is up-to-date and error free.
+#### Ask your recovery connections to use the [Update/Upgrade](../../update-upgrade.md) guide for important details on updating their BrightID.
+
+* Proceed further only if their BrightID is up-to-date and error free.
 {% endhint %}
 
 **Step 1.** [Install BrightId](../../) on your new mobile phone. Select the “Recover” button on the screen.
@@ -68,6 +70,8 @@ Once all steps are done, you will be taken to your BrightID home screen. Congrat
 </div>
 
 {% hint style="info" %}
+### Stolen BrightID gets invalidated upon successful recovery
+
 When you recover, BrightID in your old phone becomes invalidated and useless if you or someone still has it. If you still have the old phone, it is safe to uninstall BrightID from it.
 {% endhint %}
 

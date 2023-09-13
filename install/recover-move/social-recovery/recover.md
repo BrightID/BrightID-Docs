@@ -4,17 +4,20 @@ description: Using Social Recovery to recover your BrightID
 
 # Recover
 
-{% hint style="danger" %}
-Make sure your recovery connections have the same version of BrightID as your newly installed one. Have them [upgrade to the latest version](../../update-upgrade.md) before proceeding further.\
+{% hint style="warning" %}
+Do not proceeding further before reading this alert completely and acting on it.\
 \
-If, for some reason, after updating their BrightID, your recovery connections get an error saying their signing keys are invalid/incorrect, then you cannot recover. It is very important for you and your recovery connections to keep your BrightID mobile app healthy and keep it up-to-date.\
+Before starting recovery, make sure your recovery connections have the same version of BrightID as your freshly installed one.
+
+* If, for some reason, after updating their BrightID, your recovery connections get an error saying their signing keys are invalid/incorrect, then you cannot recover.
+* It is very important for you and your recovery connections to keep your BrightID mobile app healthy and keep it up-to-date. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements.
+
+Ask your recovery connections to use the [Update/Upgrade](../../update-upgrade.md) guide for important details on updating their BrightID.\
 \
-Watching out for new update announcements and keeping your and your connection's BrightID updated is a good practice to ensure your recovery goes smoothly. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements.\
-\
-Use the [Update/Upgrade](../../update-upgrade.md) guide for important details on how to keep your BrightID be up-to-date.
+Proceed further if their BrightID is up-to-date and error free.
 {% endhint %}
 
-**Step 1.** Install the BrightId app on your new mobile phone. Select the “Recover” button on the screen when you first open the freshly installed BrightID app.
+**Step 1.** [Install BrightId](../../) on your new mobile phone. Select the “Recover” button on the screen.
 
 <div align="left">
 
@@ -22,7 +25,7 @@ Use the [Update/Upgrade](../../update-upgrade.md) guide for important details on
 
 </div>
 
-**Step 2.** The app will present a QR code and a link. Share the QR code to two of your recovery connections or Select 'Copy' to copy the link to share with them.&#x20;
+**Step 2.** The app will present a QR code and a link. Share the QR code to two of your recovery connections or copy the link to share with them.&#x20;
 
 <div align="left">
 
@@ -30,7 +33,7 @@ Use the [Update/Upgrade](../../update-upgrade.md) guide for important details on
 
 </div>
 
-**Step 3.** On your recovery friend side, after they scan your QR code or after they clicked the link you shared, your friend will see a filtered list of BrightIDs from your connection list. They must carefully identify you and correctly select your BrightID as the BrightID they are helping to recover.
+**Step 3.** On your recovery connection friend side, after they scan your QR code or after they clicked the link you shared, your friend will see a filtered list of BrightIDs from your connection list. They must carefully identify you and correctly select your BrightID as the BrightID they are helping to recover.
 
 <figure><img src="../../../.gitbook/assets/Recovery w SR_S3 (1).png" alt=""><figcaption></figcaption></figure>
 

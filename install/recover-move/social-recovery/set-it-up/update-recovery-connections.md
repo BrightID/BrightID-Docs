@@ -6,7 +6,7 @@ description: Add or update recovery connections
 
 Making connections in general is described in detail in "[Making Connections](../../../../verifications/making-connections/)" section.
 
-Social life is such that our close relationships changes from time to time. Healthy relationships of interdependence usually lasts longer but situations can change as life moves on. It is also the case that the nature of trust is such that only the people we trust can betray us. However, not trusting anybody just because of the fear of betrayal is not a healthy way for a social being to live their life. Considering these, it is important to be able to curate and update our trusted connections.\
+Social life is such that our close relationships changes from time to time. Healthy relationships of interdependence usually lasts longer but situations can change as life moves on. The nature of trust is also such that only the people we trust can betray us. However, not trusting anybody just because of the fear of betrayal is not a healthy way for a social being to live their life. Considering these, it is important to be able to curate and update our trusted connections.\
 \
 When relationships do change, in BrightID we can change our recovery connections. By:
 
@@ -14,6 +14,8 @@ When relationships do change, in BrightID we can change our recovery connections
 2. Changing the [connection level](../../../../verifications/making-connections/connection-levels.md) of an existing connection.
 
 {% hint style="info" %}
+### The Cool-down period
+
 For your security, changes to recovery connections will take effect only **after seven days.**\
 \
 The period is called the cool-down period, and it helps if someone deliberately steals your mobile phone to steal your BrightID by changing your recovery connections. It allows you to recover your BrightID to a new mobile phone before they do.\

@@ -7,16 +7,18 @@ description: Move your BrightID to a new phone, or use an extra phone as a backu
 You can move your BrightID from one phone to another as long as you **still have access to the old phone that has your fully functioning BrightID**. This feature also allows the multi-device backup of your BrightID so that if you lose one, you still have your BrightID in another phone.
 
 {% hint style="warning" %}
+### Make sure BrightID on your old phone is up-to-date
+
 Do not proceeding further before reading this alert completely and acting on it.\
 \
-Before starting recovery, make sure the phone with the fully functioning BrightID(old phone) has the same version of BrightID as your newly installed one in your new phone.
+Before starting recovery, make sure the original phone with the fully functioning BrightID has the same version of BrightID as your newly installed one in your new phone.
 
 * If, for some reason, after updating, BrightID app in your old phone has an error saying signing keys are invalid/incorrect, then you cannot recover.
 * It is very important for you to keep your BrightID mobile app in all your phones healthy and kept up-to-date. Follow us on Twitter at [@BrightIDProject](https://twitter.com/BrightIDProject), so you do not miss these important announcements. Then keep all of your devices up-to-date and in sync.
 
-Use the [Update/Upgrade](../update-upgrade.md) guide for important details on how to update BrightID on your old phone.\
-\
-Proceed further if your BrightID on your old phone is up-to-date and error free.
+#### [Use the Update/Upgrade guide for important details on how to update BrightID on your old phone.](../update-upgrade.md)
+
+* Proceed further only if your BrightID on your old phone is up-to-date and error free.
 {% endhint %}
 
 ### Moving your BrightID to new phone
@@ -32,7 +34,11 @@ Proceed further if your BrightID on your old phone is up-to-date and error free.
 **Step 2.** After the QR Code appears on the new phone, note the following info:
 
 {% hint style="info" %}
-If you just want to move your BrightID to the new phone, select the **"set as primary device"** option above the QR code before you scan the code.
+### Primary/Secondary device
+
+If you just want to move your BrightID to the new phone, select the **"set as primary device"** option above the QR code before you scan the code. Then your old phone BrightID is secondary.\
+\
+If you want your new device to be a backup or secondary, leave the option unchecked. Then your old phone BrightID remains primary.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/AddingDevice_Step2.png" alt=""><figcaption></figcaption></figure>
@@ -80,5 +86,5 @@ To access the information on the list of devices with a copy of your BrightID, y
 {% hint style="danger" %}
 "Sync Devices" from your primary phone from time to time, especially if you change something, like your profile pic, name, connection level of a connection, or you added new connections.\
 \
-While you can still have a functioning BrightID on the phone that is not synced, and you can always redo the changes manually on your secondary/backup phone, obviously it is best not to have to repeat the changes.
+While you can still have a functioning BrightID on the phone that is not synced, and you can always redo the changes manually on your secondary/backup phone, it is obviously best not to have to repeat the changes.
 {% endhint %}

@@ -7,7 +7,7 @@ description: Using Social Recovery to recover your BrightID
 {% hint style="warning" %}
 ### Make sure your recovery connection's BrightID is up-to-date
 
-Do not proceeding further before reading this alert completely and acting on it.\
+Do not proceed further before reading this alert completely and acting on it.\
 \
 Before starting recovery, make sure your recovery connections have the same version of BrightID as your freshly installed one.
 

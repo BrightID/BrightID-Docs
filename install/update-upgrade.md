@@ -26,6 +26,6 @@ description: Always keep BrightID mobile app up-to-date with the latest version
 
 NOTES:
 
-* Follow and keep an eye on the project's X(formerly twitter) presence as [@BrightIDProject](https://twitter.com/BrightIDProject) or [Discord](https://discord.com/servers/brightid-596752664906432522) for announcement posts about new updates.
+* Follow and keep an eye on the project's X(formerly twitter) presence as [@BrightIDProject](https://twitter.com/BrightIDProject) or [Discord](https://discord.gg/brightid-596752664906432522) for announcement posts about new updates.
 * If you have setup [Social Recovery](recover-move/social-recovery/), make sure to ask your [recovery connections](recover-move/social-recovery/#who-should-be-your-recovery-connections) to keep their BrightID app up-to-date. This helps prevent Social Recovery problems.
 * If you have setup [Device Recovery](recover-move/device-recovery.md), make sure to keep your secondary devices up-to-date. This helps prevent Device Recovery problems.

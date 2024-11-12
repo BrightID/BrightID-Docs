@@ -1,4 +1,4 @@
-# 🤝 Connection process
+# Connection process
 
 ### Making one-to-one connection
 

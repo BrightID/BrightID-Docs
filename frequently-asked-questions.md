@@ -2,7 +2,7 @@
 description: Answers to frequently-asked questions
 ---
 
-# ❓ FAQ
+# FAQ
 
 ### How do I unlink an app from my BrightID?
 

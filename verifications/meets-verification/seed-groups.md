@@ -10,7 +10,7 @@ The group feature in BrightID represents core members of trusted communities aro
 
 If you are a core part of a community around a well known and trusted web3 project and you are interested in having members of the public participating in your project receive the [Meets verification](./) through your own community, read on. Worth mentioning here:
 
-* If your project has a web3 app and you want to integrate BrightID to allow fair access to your app, check out the [app integration documentation](https://brightid.stoplight.io/). You may also reach out to BrightID project's community in [our public space in Discord](https://discord.com/servers/brightid-596752664906432522) for integration support.
+* If your project has a web3 app and you want to integrate BrightID to allow fair access to your app, check out the [app integration documentation](https://brightid.stoplight.io/). You may also reach out to BrightID project's community in [our public space in Discord](https://discord.gg/brightid-596752664906432522) for integration support.
 * If your web3 project and community also has a public space in discord, consider using [BrightID unique bot for Discord](https://bot.brightid.org) to fortify your public space against bots, scammers and spammers causing havoc in your public space using multiple discord accounts.
 
 So, to try to scale the [Meets verification](./), there has always been a simple but permissioned mechanism for there to be hosts embedded in various communities besides BrightID's own community.
@@ -46,7 +46,7 @@ After the SeedDAO approves your community's group:
 * Any group member with "Seed" badge, can now make "[Just Met](../making-connections/connection-levels.md#just-met)" connections with members of the public for the public to receive the [Meets verification](./).
 
 {% hint style="success" %}
-Tips: To smoothen the seed group nomination application process, it is suggested that you contact BrightID community on the project's public space in [**Discord**](https://discord.com/servers/brightid-596752664906432522) to introduce your community and follow up about the application process.
+Tips: To smoothen the seed group nomination application process, it is suggested that you contact BrightID community on the project's public space in [**Discord**](https://discord.gg/brightid-596752664906432522) to introduce your community and follow up about the application process.
 {% endhint %}
 
 ### Seed group responsibilities

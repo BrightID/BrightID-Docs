@@ -2,7 +2,7 @@
 description: Enjoy fair and baseline rights of access to web3 properties
 ---
 
-# ✅ Connect to Apps
+# Connect to Apps
 
 ### The Internet of value
 

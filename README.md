@@ -1,4 +1,4 @@
-# 🔆 BrightID
+# BrightID
 
 BrightID is a privacy-first social identity network that allows you to prove to applications that you are accessing them fairly with only one account.
 

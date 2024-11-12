@@ -1,4 +1,4 @@
-# 🔃 Bitu Verification
+# Bitu Verification
 
 Bitu verification verifies users based on their location in the [BrightID graph](https://explorer.brightid.org/). Users should do certain things to move closer to the main regions of the graph and avoid doing what pushes them away from these regions.
 

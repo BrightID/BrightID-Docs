@@ -14,6 +14,8 @@ SUBS can be obtained via uniswap at [https://app.uniswap.org/#/swap?inputCurrenc
 
 ## Stake SUBS
 
+[https://fairdrop.brightid.org/farms](https://fairdrop.brightid.org/farms)
+
 Click the “+” icon to start staking SUBS. Enter the amount you want to stake and click “Confirm”. When staking for the first time, you will first be prompted to approve the SUBS token.
 
 To unstake, click on the “-” icon and select the amount to withdraw. You can also choose to withdraw 100% of your subs and get the $BRIGHT reward at the same time.

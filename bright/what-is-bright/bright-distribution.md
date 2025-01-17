@@ -4,7 +4,7 @@
 
 Minting is limited in the token contract to 10 million $BRIGHT per year. An additional lock prevents any minting during the first year beyond the [initial minted supply](bright-distribution.md#initial-minted-supply).
 
-![](<../../.gitbook/assets/Max $BRIGHT Supply Graph\_3.png>)
+![](<../../.gitbook/assets/Max $BRIGHT Supply Graph_3.png>)
 
 ## Initial Minted Supply (25 million) <a href="#initial-minted-supply" id="initial-minted-supply"></a>
 
@@ -28,13 +28,11 @@ This will supply BrightDAO’s initiatives for the upcoming year and beyond. Bri
 {% tab title="Farming" %}
 ### :man\_farmer:Farming (6,700,000)
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+[https://fairdrop.brightid.org/farms](https://fairdrop.brightid.org/farms)
 
-#### :heavy\_check\_mark: Stake $BRIGHT/HNY LP in the farm (350,000) , 2 months
+#### :heavy\_check\_mark: ~~Stake $BRIGHT/HNY LP in the farm (350,000) , 2 months~~
 
-Rewards program for providing liquidity to the BRIGHT/HNY pair on [Honeyswap](https://app.honeyswap.org/) and then depositing LP tokens in the farm page.&#x20;
+~~Rewards program for providing liquidity to the BRIGHT/HNY pair on~~ [~~Honeyswap~~](https://app.honeyswap.org/) ~~and then depositing LP tokens in the farm page.~~ This program is no longer active.
 
 #### :heavy\_check\_mark: Stake $BRIGHT/ETH LP in the farm (350,000) , 2 months
 

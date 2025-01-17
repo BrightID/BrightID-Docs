@@ -18,10 +18,6 @@ This will supply BrightDAO’s initiatives for the upcoming year and beyond. Bri
 
 ### :gift: Past actions (6.85 million) <a href="#past-actions" id="past-actions"></a>
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ### :bulb: Incentives (8.15 million) <a href="#incentives" id="incentives"></a>
 
 {% tabs %}

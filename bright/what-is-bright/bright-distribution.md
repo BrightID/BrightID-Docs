@@ -30,13 +30,13 @@ This will supply BrightDAO’s initiatives for the upcoming year and beyond. Bri
 
 ~~Rewards program for providing liquidity to the BRIGHT/HNY pair on~~ [~~Honeyswap~~](https://app.honeyswap.org/) ~~and then depositing LP tokens in the farm page.~~ This program is no longer active.
 
-#### :heavy\_check\_mark: Stake $BRIGHT/ETH LP in the farm (350,000) , 2 months
+#### :heavy\_check\_mark: ~~Stake $BRIGHT/ETH LP in the farm (350,000) , 2 months~~
 
-Rewards program for providing liquidity to the BRIGHT/ETH pair on Uniswap v3 and then depositing LP tokens in the farm page.&#x20;
+~~Rewards program for providing liquidity to the BRIGHT/ETH pair on Uniswap v3 and then depositing LP tokens in the farm page.~~ This program has expired. However, it is still possible to claim any unclaimed reward and unstake if needed.
 
-#### :heavy\_check\_mark: Stake $Subs in the farm (6,000,000) , 24 months
+#### :heavy\_check\_mark: ~~Stake $Subs in the farm (6,000,000) , 24 months~~
 
-Subs are a crucial part of the BrightID ecosystem. Subs holders are app creators who sponsor their users and pay for BrightID as a public good. We want to reward them with $BRIGHT so they can participate in community initiatives.
+~~Subs are a crucial part of the BrightID ecosystem. Subs holders are app creators who sponsor their users and pay for BrightID as a public good. We want to reward them with $BRIGHT so they can participate in community initiatives.~~ This program has expired. However, it is still possible to claim any unclaimed reward and unstake if needed.
 {% endtab %}
 
 {% tab title="Bounties" %}
